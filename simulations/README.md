@@ -1,7 +1,7 @@
 # Co-Aggregators Simulations
 
 ## Introduction
-A Workflow to create a Molecular Dynamics (MD) simulation from set of SMILES strings of given aggregators/nonaggregators.
+A workflow to create and automatically analyze short Molecular Dynamics (MD) simulation from a set of drug and excipient SMILES strings to determine potential co-aggregation.
 
 Dependency
 - Python (3.6>)
@@ -12,7 +12,7 @@ Dependency
 ## Order of pipeline
 0. Prepare 
 	- a tab-delimited file containing list of molecules with SMILES per line (e.g. drug_smiles.txt)
-	- a tab-delimited file containing component and number of each molecules to simulate (e.g. box_composition.txt)
+	- a tab-delimited file containing component and number of each molecules to simulate (e.g. pair_composition.txt)
 1. From SMILES list, create a 3D conformation in Tripos Mol2 format.
 2. Create 
 	- a simulation box in PDB format
@@ -47,11 +47,11 @@ Step 2. Create all required pre-simulation files.
 Step 3. Run simulations
 
 	
-	./run_OpenMM.sh folder_name ../data/pair_composition.txt
+	./run_OpenMM.sh simulation_directory ../data/pair_composition.txt
 	
-where folder_name links to a directory where simulation files will be stored
+where simulation_directory links to a directory where simulation files will be stored
 
 Step 4. Automated analysis of simulations 
 ```
-python ./analyze/pair_parameter.py -i pair_composition.txt -i outfile.csv -d simulation_directory
+python ./analysis.py -i pair_composition.txt -i outfile.csv -d simulation_directory
 ```
