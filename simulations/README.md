@@ -28,30 +28,30 @@ Dependency
 Step 0. Download sample data.
 
 	
-	git clone https://github.com/DanReker/Aggregators.git
+	git clone https://github.com/DanReker/CoAggregators.git
 	
 
 Step 1. Create a 3D conformation in Tripos Mol2 formatted files.
 
 	
-	./make_mol.sh drug_smiles.txt
-	./make_mol.sh excipient_smiles.txt
+	./make_mol.sh ../data/selected_drug_smiles.txt
+	./make_mol.sh ../data/selected_excipient_smiles.txt
 	
 	
 Step 2. Create all required pre-simulation files.
 
 	
-	python ./make_box.py -i pair_composition.txt
+	python ./make_box.py -i ../data/pair_composition.txt
 	
 
 Step 3. Run simulations
 
 	
-	./run_OpenMM.sh folder_name pair_composition.txt
+	./run_OpenMM.sh folder_name ../data/pair_composition.txt
 	
 where folder_name links to a directory where simulation files will be stored
 
-Step 4. (Optional) Analysis on prospective pairs
+Step 4. Automated analysis of simulations 
 ```
 python ./analyze/pair_parameter.py -i pair_composition.txt -i outfile.csv -d simulation_directory
 ```
