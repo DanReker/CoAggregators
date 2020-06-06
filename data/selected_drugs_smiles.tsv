@@ -1,0 +1,17 @@
+NAME	SMILES
+Sorafenib	CNC(=O)C1=NC=CC(OC2=CC=C(NC(=O)NC3=CC(=C(Cl)C=C3)C(F)(F)F)C=C2)=C1
+Lumefantrine	CCCCN(CCCC)CC(O)C1=C2C(=CC(Cl)=C1)\C(=C/C1=CC=C(Cl)C=C1)C1=C2C=CC(Cl)=C1
+Atovaquone	OC1=C([C@H]2CC[C@@H](CC2)C2=CC=C(Cl)C=C2)C(=O)C2=CC=CC=C2C1=O
+Nelfinavir	[H][C@@]12CCCC[C@]1([H])CN(C[C@@H](O)[C@H](CSC1=CC=CC=C1)NC(=O)C1=C(C)C(O)=CC=C1)[C@@H](C2)C(=O)NC(C)(C)C
+Gefitinib	COC1=C(OCCCN2CCOCC2)C=C2C(NC3=CC(Cl)=C(F)C=C3)=NC=NC2=C1
+Fulvestrant	[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])C2[C@H](CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)CC2=CC(O)=CC=C12
+Rapamycin	[H][C@@]1(C[C@@H](C)[C@]2([H])CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(C)\[C@H](C[C@]3([H])CC[C@@H](C)[C@@](O)(O3)C(=O)C(=O)N3CCCC[C@@]3([H])C(=O)O2)OC)CC[C@@H](O)[C@@H](C1)OC
+Rilpivirine	CC1=CC(\C=C\C#N)=CC(C)=C1NC1=CC=NC(NC2=CC=C(C=C2)C#N)=N1
+Econazole	ClC1=CC=C(COC(CN2C=CN=C2)C2=C(Cl)C=C(Cl)C=C2)C=C1
+Chlorpromazine Hcl	Cl.CN(C)CCCN1C2=CC=CC=C2SC2=C1C=C(Cl)C=C2
+Taxol	[H][C@]12[C@H](OC(=O)C3=CC=CC=C3)[C@]3(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)C4=CC=CC=C4)C4=CC=CC=C4)C(C)=C([C@@H](OC(C)=O)C(=O)[C@]1(C)[C@@H](O)C[C@H]1OC[C@@]21OC(C)=O)C3(C)C
+Physcion	COC1=CC2=C(C(O)=C1)C(=O)C1=C(C=C(C)C=C1O)C2=O
+Curcumine	COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O
+Etravirine	CC1=CC(=CC(C)=C1OC1=C(Br)C(N)=NC(NC2=CC=C(C=C2)C#N)=N1)C#N
+Clofazimine	CC(C)N=C1C=C2C(=NC3=CC=CC=C3N2C4=CC=C(C=C4)Cl)C=C1NC5=CC=C(C=C5)Cl
+Pranlukast	C1=CC=C(C=C1)CCCCOC2=CC=C(C=C2)C(=O)NC3=CC=CC4=C3OC(=CC4=O)C5=NNN=N5
