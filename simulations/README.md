@@ -47,11 +47,11 @@ Step 2. Create all required pre-simulation files.
 Step 3. Run simulations
 
 	
-	./run_OpenMM.sh simulation_directory ../data/pair_composition.txt
+	./run_OpenMM.sh simulation_directory ../data/pair_composition.tsv
 	
 where simulation_directory links to a directory where simulation files will be stored
 
 Step 4. Automated analysis of simulations 
 ```
-python ./analysis.py -i pair_composition.txt -i outfile.csv -d simulation_directory
+python ./analysis.py -i pair_composition.tsv -i outfile.csv -d simulation_directory
 ```
