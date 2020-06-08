@@ -53,5 +53,5 @@ where simulation_directory links to a directory where simulation files will be s
 
 Step 4. Automated analysis of simulations 
 ```
-python ./analysis.py -i pair_composition.tsv -i outfile.csv -d simulation_directory
+python ./analysis.py -i ../data/pair_composition.tsv -i outfile.csv -d simulation_directory
 ```
