@@ -5,7 +5,7 @@ A workflow to create and automatically analyze short Molecular Dynamics (MD) sim
 
 Dependency
 - Python (3.6>)
-- Python Packages : Openbabel, Ambertools, MDTraj, Parmed, OpenMM (7.2>)
+- Python Packages : Openbabel, Ambertools, MDTraj, Parmed, OpenMM (7.2>), openmoltools
 - Software (packmol)
 - TVRegDiff (Github Repository)
 
