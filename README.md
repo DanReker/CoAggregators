@@ -46,6 +46,7 @@ conda install -c openbabel openbabel
 conda install -c kyleabeauchamp ambermini
 conda install -c conda-forge mdtraj
 conda install -c omnia parmed
+conda install -c omnia openmoltools
 conda install -c rdkit rdkit
 
 sudo apt-get install gfortran
