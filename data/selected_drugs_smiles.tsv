@@ -8,7 +8,7 @@ Fulvestrant	[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])C2[C@H](CCCCCCCCCS(=O)CCCC
 Rapamycin	[H][C@@]1(C[C@@H](C)[C@]2([H])CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(C)\[C@H](C[C@]3([H])CC[C@@H](C)[C@@](O)(O3)C(=O)C(=O)N3CCCC[C@@]3([H])C(=O)O2)OC)CC[C@@H](O)[C@@H](C1)OC
 Rilpivirine	CC1=CC(\C=C\C#N)=CC(C)=C1NC1=CC=NC(NC2=CC=C(C=C2)C#N)=N1
 Econazole	ClC1=CC=C(COC(CN2C=CN=C2)C2=C(Cl)C=C(Cl)C=C2)C=C1
-Chlorpromazine Hcl	Cl.CN(C)CCCN1C2=CC=CC=C2SC2=C1C=C(Cl)C=C2
+Chlorpromazine_Hcl	Cl.CN(C)CCCN1C2=CC=CC=C2SC2=C1C=C(Cl)C=C2
 Taxol	[H][C@]12[C@H](OC(=O)C3=CC=CC=C3)[C@]3(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)C4=CC=CC=C4)C4=CC=CC=C4)C(C)=C([C@@H](OC(C)=O)C(=O)[C@]1(C)[C@@H](O)C[C@H]1OC[C@@]21OC(C)=O)C3(C)C
 Physcion	COC1=CC2=C(C(O)=C1)C(=O)C1=C(C=C(C)C=C1O)C2=O
 Curcumine	COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O
