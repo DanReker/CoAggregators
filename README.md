@@ -31,7 +31,7 @@ conda install -c anaconda joblib
 
 ## Simulations
 
-Dependent on Python libraries [OpenMM](http://openmm.org/), [Open Babel](http://openbabel.org/), 
+Dependent on Python libraries [OpenMM](http://openmm.org/), [openmoltools](https://github.com/choderalab/openmoltools), [Open Babel](http://openbabel.org/), 
 [ambermini](https://github.com/choderalab/ambermini) as a stripped down version of [Amber](http://ambermd.org/),
 [MDTraj](http://mdtraj.org/), [ParmEd](http://parmed.github.io/ParmEd), and [RDKit](http://rdkit.org/). 
 Also requires an installation of [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml) 
