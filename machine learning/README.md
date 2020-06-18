@@ -13,3 +13,6 @@ large-scale evaluation of co-aggregation model. includes cross validation experi
 
 #### predict_pairs.py
 predict new co-aggregation pairs from screening data
+
+#### dim_red.py
+dimension reduction to showcase the diverse sampling of drugs and excipients for experimental testing
