@@ -50,7 +50,7 @@ Step 3. Run simulations
 	./run_OpenMM.sh simulation_directory ../data/pair_composition.tsv
 	
 where simulation_directory links to a directory where simulation files will be generated.
-Note: "simulation_directory needs to contain all mol2 files.
+Note: "simulation_directory needs to contain all .mol2 and .frcmod files.
 
 Step 4. Automated analysis of simulations 
 ```
