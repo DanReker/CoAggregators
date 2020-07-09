@@ -123,7 +123,8 @@ try:
         file_handle = open(log_filename, 'w')
         file_handle.writelines("--- %s seconds ---" % (time.time() - start_time))
         file_handle.close()
-except:
+except Exception as e:
+    print(e)
     failfile = open("failed.txt", "a")
     failfile.writelines(args.output + '\n')
     failfile.close()

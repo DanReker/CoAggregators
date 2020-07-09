@@ -1,15 +1,13 @@
 '''
-Original Code from: https://github.com/choderalab/openmoltools/openmoltools/packmol.py
-
-To create a mixture one or more components, create a tab-delimited file that contains the combination of pairs and number of each molecules per line.
+Generate a simulation pdb box and AMBER-recognized input files from a tab-delimited file that contains the molecule components and the number of each molecules per line.
+Example line entry: 'Sorafenib  indomethacin    2   2'
 
 usage: make_box.py [-h] -i INFILE [-s] [-b BUFFER] [-# SEED]
 	optional arguments:
 	  -h, --help            show this help message and exit
 	  -i INFILE, --infile INFILE
 				Input file that contains names and number of molecules
-	  -s, --solvate         If activated, creates a model solvated in explicit
-				water (TIP3P)
+	  -s, --solvate         If activated, creates a model solvated in explicit water (TIP3P)
 	  -b BUFFER, --buffer BUFFER
 				Buffering distance between waterbox and molecule box
 				(default=10 Angstroms)
@@ -146,7 +144,7 @@ def pack_box(pdb_filenames, n_molecules_list, tolerance=2.0, box_size=None, seed
     n_molecules_list : list(int)
         The number of molecules of each mixture component.
     tolerance : float, optional, default=2.0
-        The mininum spacing between molecules during packing.  In ANGSTROMS!
+        The minimum spacing between molecules during packing.  In ANGSTROMS!
     box_size : float, optional
         The size of the box to generate.  In ANGSTROMS.
         Default generates boxes that are very large for increased stability.
@@ -214,7 +212,7 @@ def pack_box(pdb_filenames, n_molecules_list, tolerance=2.0, box_size=None, seed
 
     assert trj.topology.n_chains == sum(n_molecules_list), "Packmol error: molecules missing from output"
 
-    #Begin hack to introduce bonds for the MISSING CONECT ENTRIES THAT PACKMOL FAILS TO WRITE
+    #Begin hack to introduce bonds for the MISSING CONNECT ENTRIES THAT PACKMOL FAILS TO WRITE
 
     top, bonds = trj.top.to_dataframe()
     bonds_i = [t.top.to_dataframe()[1] for t in trj_i]
@@ -223,15 +221,15 @@ def pack_box(pdb_filenames, n_molecules_list, tolerance=2.0, box_size=None, seed
     bonds = []
     for i in range(len(trj_i)):
         n_atoms = trj_i[i].n_atoms
-    for j in range(n_molecules_list[i]):
-        list(bonds).extend(bonds_i[i] + offset)
-        offset += n_atoms
+        for j in range(n_molecules_list[i]):
+            list(bonds).extend(bonds_i[i] + offset)
+            offset += n_atoms
 
-        bonds = np.array(bonds)
-        trj.top = md.Topology.from_dataframe(top, bonds)
+    bonds = np.array(bonds)
+    trj.top = md.Topology.from_dataframe(top, bonds)
 
     # Set the requested box size.
-        trj.unitcell_vectors = np.array([np.eye(3)]) * box_size / 10.
+    trj.unitcell_vectors = np.array([np.eye(3)]) * box_size / 10.
 
     return output_filename
 
@@ -239,7 +237,7 @@ def pack_box(pdb_filenames, n_molecules_list, tolerance=2.0, box_size=None, seed
 def build_mixture_prmtop(mol2_filenames, frcmod_filenames, box_filename, prmtop_filename, inpcrd_filename, solvation=False, buffer_distance=10):
     """Create a prmtop and inpcrd from a collection of mol2 and frcmod files
     as well as a single box PDB.  We have used this for setting up
-    simulations of neat liquids or binary mixtures. (Original code : openmoltools.amber)
+    simulations of binary mixtures. (Original code : openmoltools.amber)
     Parameters
     ----------
     mol2_filenames : list(str)
@@ -256,7 +254,7 @@ def build_mixture_prmtop(mol2_filenames, frcmod_filenames, box_filename, prmtop_
     solvation : Boolean, optional. Default: False
         Boolean for whether the system should be solvated explicitly or not. If true, the system will be solvated in TIP3P water model using tleap
     buffer_distance : int, optional. Default: 10
-        If solvation is true, will add a water ion with a buffering distance of 10 Angstrom unless specified otherwise.
+        If solvation is true, will add water molecules with a buffering distance of 10 Angstrom unless specified otherwise.
     Returns
     -------
     tleap_commands : str
@@ -296,8 +294,6 @@ def build_mixture_prmtop(mol2_filenames, frcmod_filenames, box_filename, prmtop_
     prmtop_filename = os.path.abspath(prmtop_filename)
     inpcrd_filename = os.path.abspath(inpcrd_filename)
 
-    #Use temporary directory and do the setup
-#    with md.utils.enter_temp_directory():
     all_names = [md.load(filename).top.residue(0).name for filename in mol2_filenames]
 
     mol2_section = "\n".join("%s = loadmol2 %s" % (
@@ -323,54 +319,8 @@ def build_mixture_prmtop(mol2_filenames, frcmod_filenames, box_filename, prmtop_
 
     output = getoutput(cmd)
     logger.debug(output)
-    check_for_errors(output, other_errors=['Improper number of arguments'], ignore_errors=[
-                        'unperturbed charge of the unit', 'ignoring the error'])
 
     return tleap_commands
-
-
-def check_for_errors(outputtext, other_errors=None, ignore_errors=None):
-    """Check AMBER package output for the string 'ERROR' (upper or lowercase) and (optionally) specified other strings and raise an exception if it is found (to avoid silent failures which might be noted to log but otherwise ignored).
-    (Original Code : openmoltools.amber)
-    Parameters
-    ----------
-    outputtext : str
-        String listing output text from an (AMBER) command which should be checked for errors.
-    other_errors : list(str), default None
-        If specified, provide strings for other errors which will be chcked for, such as "improper number of arguments", etc.
-    ignore_errors: list(str), default None
-        If specified, AMBER output lines containing errors but also containing any of the specified strings will be ignored (because, for example, AMBER issues an "ERROR" for non-integer charges in some cases when only a warning is needed).
-    Notes
-    -----
-    If error(s) are found, raise a RuntimeError and attept to print the appropriate errors from the processed text."""
-    lines = outputtext.split('\n')
-    error_lines = []
-    for line in lines:
-        if 'ERROR' in line.upper():
-            error_lines.append(line)
-        if not other_errors == None:
-            for err in other_errors:
-                if err.upper() in line.upper():
-                    error_lines.append(line)
-
-    if not ignore_errors == None and len(error_lines) > 0:
-        new_error_lines = []
-        for ign in ignore_errors:
-            ignore = False
-            for err in error_lines:
-                if ign in err:
-                    ignore = True
-            if not ignore:
-                new_error_lines.append(err)
-        error_lines = new_error_lines
-
-    if len(error_lines) > 0:
-        print("Unexpected errors encountered running AMBER tool. Offending output:")
-        for line in error_lines:
-            print(line)
-        raise(RuntimeError("Error encountered running AMBER tool. Exiting."))
-
-    return
 
 
 # MAIN CODE	
