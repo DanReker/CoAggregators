@@ -306,4 +306,4 @@ for i in df.index: # distance_df.index:
         print(e)
         continue
 
-df.to_csv(PAIR_DIR+args.outfile, sep='\t', index=false)
+df.to_csv(PAIR_DIR+args.outfile, sep='\t', index=False)
