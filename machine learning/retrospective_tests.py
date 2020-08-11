@@ -443,8 +443,52 @@ important_mccs = Parallel(n_jobs=10)(delayed(ablation)("important") for i in ran
 np.savetxt("random_ablation_mcc.txt",random_mccs,delimiter='\t')
 np.savetxt("important_ablation_mcc.txt",important_mccs,delimiter='\t')
 
+##################
+# subset evaluation
+def run_growth(x,y):
+	
+	model = RandomForestClassifier(n_estimators=50,n_jobs=10,oob_score = True)
+	
+	_x = x.copy()
+	_y = y.copy()
+	
+	index = np.random.choice(np.where(_y == 0)[0])
+	
+	X_training = _x[index].copy()
+	Y_training = np.array([_y[index]])
+	
+	_x = np.delete(_x, index, 0)
+	_y = np.delete(_y, index)
+	
+	index = np.random.choice(np.where(_y == 1)[0])
+	
+	X_training = np.vstack( (X_training, _x[index]))
+	Y_training = np.append( Y_training, _y[index])
+	
+	_x = np.delete(_x, index, 0)
+	_y = np.delete(_y, index)
+	
+	mccs = []
+	
+	for _ in range(len(_x)):
+			
+		_ = model.fit(X_training,Y_training)
+		
+		mccs += [mcc(np.argmax(model.oob_decision_function_,axis=1),Y_training)]
+		
+		index = np.random.randint(len(_x))
+		
+		X_training = np.vstack( (X_training, _x[index]))
+		Y_training = np.append( Y_training, _y[index])
+		
+		_x = np.delete(_x, index, 0)
+		_y = np.delete(_y, index)
+		
+		#print str(len(_x)) + "\t" + str(mccs2[-1])
+	
+	return mccs
 
-
+subset_mccs = Parallel(n_jobs=20)(delayed(run_growth)(x,y) for i in range(20))
 
 ###############
 #### feature importance
