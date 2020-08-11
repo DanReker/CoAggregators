@@ -6,9 +6,10 @@ All data files are tab-separated and contain a header to define the columns.
 
 Screening results from high-throughput co-aggregation screen.
 Contains name of drug and excipient tested. Binary code indicates
-whether the pair forms nanoparticles (1) or not (0). Last column
-corresponds to percentage size reduction of nanoparticles compared
-to unformulated drug.
+whether the pair forms nanoparticles (1) or not (0). Second to last column
+corresponds to size reduction of nanoparticles compared
+to unformulated drug. Last column reports radius of nanoparticles
+in nm.
 
 #### selected_drugs_smiles.tsv	
 
