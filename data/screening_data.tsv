@@ -1,1441 +1,1441 @@
-DRUG	EXCIPIENT	CLASS	SIZE_REDUCTION
-Sorafenib	caffeine	0	nan
-Sorafenib	succinic_acid	0	nan
-Sorafenib	octyl_gallate	0	nan
-Sorafenib	DL-malic_acid	0	nan
-Sorafenib	adipic_acid	0	nan
-Sorafenib	Triazabicyclodecene	0	nan
-Sorafenib	DBU	0	nan
-Sorafenib	L-asparagine	0	nan
-Sorafenib	theobromine	0	nan
-Sorafenib	3,3'-thiodipropionic_acid	0	nan
-Sorafenib	theophylline	0	nan
-Sorafenib	borneol	0	nan
-Sorafenib	cinnamaldehyde	0	nan
-Sorafenib	aspartame	0	nan
-Sorafenib	squalene	0	nan
-Sorafenib	benzaldehyde	0	nan
-Sorafenib	sodium_deoxycholate	1	0.4664712981
-Sorafenib	cholic_acid	1	0.4819858645
-Sorafenib	glycocholic_acid	1	0.4478538183
-Sorafenib	sucrose_octaacetate	0	nan
-Sorafenib	trans_anethole	0	nan
-Sorafenib	indomethacin	1	0.4268229616
-Sorafenib	terpinyl_butyrate	0	nan
-Sorafenib	hydrocortisone	0	nan
-Sorafenib	candesartan_cilexetil	1	0.420617135
-Sorafenib	neohesperidin_DC	0	nan
-Sorafenib	ursodiol	0	nan
-Sorafenib	diclofenac	0	nan
-Sorafenib	eucalyptol	0	nan
-Sorafenib	beta_carotene	0	nan
-Sorafenib	menthol	0	nan
-Sorafenib	alpha-terpineol	0	nan
-Sorafenib	fenchyl_alcohol	0	nan
-Sorafenib	biotin	0	nan
-Sorafenib	xylitol	0	nan
-Sorafenib	trans-cinnamic_acid	0	nan
-Sorafenib	thimerosal	0	nan
-Sorafenib	tyramine	0	nan
-Sorafenib	fumaric_acid	0	nan
-Sorafenib	congo_red	1	0.1758317531
-Sorafenib	vanillin	0	nan
-Sorafenib	saccharin	0	nan
-Sorafenib	allantoin	0	nan
-Sorafenib	vitamin_A_palmitate	0	nan
-Sorafenib	acetylcholine_chloride	0	nan
-Sorafenib	dibutyl_phthalate	0	nan
-Sorafenib	trometamol	0	nan
-Sorafenib	benzoyl_peroxide	0	nan
-Sorafenib	triethyl_citrate	0	nan
-Sorafenib	triacetin	0	nan
-Sorafenib	glycerol	1	0.4978451991
-Sorafenib	propylene_glycol	0	nan
-Sorafenib	mebendazole	0	nan
-Sorafenib	L-proline	0	nan
-Sorafenib	L-lysine	0	nan
-Sorafenib	L-ascorbic_acid	0	nan
-Sorafenib	stearic_acid	0	nan
-Sorafenib	(R)-(+)-Limonene	0	nan
-Sorafenib	meglumine	0	nan
-Sorafenib	hydrochlorothiazide	0	nan
-Sorafenib	ketoprofen	0	nan
-Sorafenib	memantine_hydrochloride	0	nan
-Sorafenib	naproxen_sodium	0	nan
-Sorafenib	mannitol	0	nan
-Sorafenib	D-sorbitol	0	nan
-Sorafenib	tannic_acid	1	0.4450956732
-Sorafenib	rhodamine_B	0	nan
-Sorafenib	moxifloxacin	0	nan
-Sorafenib	ciprofloxacin	0	nan
-Sorafenib	certirizine	0	nan
-Sorafenib	budesonide	0	nan
-Sorafenib	etidronic_acid	0	nan
-Sorafenib	emtricitabine	0	nan
-Sorafenib	metoprolol(+)-tartrate	0	nan
-Sorafenib	phenytoin	0	nan
-Sorafenib	propranolol_hydrochloride	0	nan
-Sorafenib	captan	0	nan
-Sorafenib	neotame	0	nan
-Sorafenib	alendronate_sodium	0	nan
-Sorafenib	piroxicam	0	nan
-Sorafenib	desipramine_hydrochloride	0	nan
-Sorafenib	nadolol	0	nan
-Sorafenib	omeprazole	0	nan
-Sorafenib	labetalol_hydrochloride	0	nan
-Sorafenib	prednisone	0	nan
-Sorafenib	risperidone	0	nan
-Sorafenib	fluconazole	0	nan
-Sorafenib	methotrexate_hydrate	0	nan
-Sorafenib	tenofovir_alafenamide	0	nan
-Sorafenib	carbamazepine	0	nan
-Lumefantrine	caffeine	0	nan
-Lumefantrine	succinic_acid	0	nan
-Lumefantrine	octyl_gallate	0	nan
-Lumefantrine	DL-malic_acid	0	nan
-Lumefantrine	adipic_acid	0	nan
-Lumefantrine	Triazabicyclodecene	0	nan
-Lumefantrine	DBU	0	nan
-Lumefantrine	L-asparagine	0	nan
-Lumefantrine	theobromine	0	nan
-Lumefantrine	3,3'-thiodipropionic_acid	0	nan
-Lumefantrine	theophylline	0	nan
-Lumefantrine	borneol	0	nan
-Lumefantrine	cinnamaldehyde	0	nan
-Lumefantrine	aspartame	0	nan
-Lumefantrine	squalene	0	nan
-Lumefantrine	benzaldehyde	0	nan
-Lumefantrine	sodium_deoxycholate	1	0.3364308342
-Lumefantrine	cholic_acid	0	nan
-Lumefantrine	glycocholic_acid	1	0.3406546991
-Lumefantrine	sucrose_octaacetate	0	nan
-Lumefantrine	trans_anethole	1	0.3926082365
-Lumefantrine	indomethacin	1	0.4667370644
-Lumefantrine	terpinyl_butyrate	0	nan
-Lumefantrine	hydrocortisone	0	nan
-Lumefantrine	candesartan_cilexetil	1	0.1942977825
-Lumefantrine	neohesperidin_DC	0	nan
-Lumefantrine	ursodiol	0	nan
-Lumefantrine	diclofenac	0	nan
-Lumefantrine	eucalyptol	0	nan
-Lumefantrine	beta_carotene	0	nan
-Lumefantrine	menthol	0	nan
-Lumefantrine	alpha-terpineol	0	nan
-Lumefantrine	fenchyl_alcohol	0	nan
-Lumefantrine	biotin	0	nan
-Lumefantrine	xylitol	0	nan
-Lumefantrine	trans-cinnamic_acid	0	nan
-Lumefantrine	thimerosal	0	nan
-Lumefantrine	tyramine	0	nan
-Lumefantrine	fumaric_acid	0	nan
-Lumefantrine	congo_red	1	0.1499472017
-Lumefantrine	vanillin	0	nan
-Lumefantrine	saccharin	0	nan
-Lumefantrine	allantoin	0	nan
-Lumefantrine	vitamin_A_palmitate	1	0.4794086589
-Lumefantrine	acetylcholine_chloride	0	nan
-Lumefantrine	dibutyl_phthalate	0	nan
-Lumefantrine	trometamol	0	nan
-Lumefantrine	benzoyl_peroxide	0	nan
-Lumefantrine	triethyl_citrate	0	nan
-Lumefantrine	triacetin	0	nan
-Lumefantrine	glycerol	0	nan
-Lumefantrine	propylene_glycol	0	nan
-Lumefantrine	mebendazole	0	nan
-Lumefantrine	L-proline	0	nan
-Lumefantrine	L-lysine	0	nan
-Lumefantrine	L-ascorbic_acid	0	nan
-Lumefantrine	stearic_acid	0	nan
-Lumefantrine	(R)-(+)-Limonene	0	nan
-Lumefantrine	meglumine	0	nan
-Lumefantrine	hydrochlorothiazide	0	nan
-Lumefantrine	ketoprofen	0	nan
-Lumefantrine	memantine_hydrochloride	0	nan
-Lumefantrine	naproxen_sodium	0	nan
-Lumefantrine	mannitol	0	nan
-Lumefantrine	D-sorbitol	0	nan
-Lumefantrine	tannic_acid	0	nan
-Lumefantrine	rhodamine_B	0	nan
-Lumefantrine	moxifloxacin	0	nan
-Lumefantrine	ciprofloxacin	0	nan
-Lumefantrine	certirizine	0	nan
-Lumefantrine	budesonide	0	nan
-Lumefantrine	etidronic_acid	0	nan
-Lumefantrine	emtricitabine	0	nan
-Lumefantrine	metoprolol(+)-tartrate	0	nan
-Lumefantrine	phenytoin	0	nan
-Lumefantrine	propranolol_hydrochloride	0	nan
-Lumefantrine	captan	0	nan
-Lumefantrine	neotame	0	nan
-Lumefantrine	alendronate_sodium	0	nan
-Lumefantrine	piroxicam	0	nan
-Lumefantrine	desipramine_hydrochloride	0	nan
-Lumefantrine	nadolol	0	nan
-Lumefantrine	omeprazole	0	nan
-Lumefantrine	labetalol_hydrochloride	0	nan
-Lumefantrine	prednisone	0	nan
-Lumefantrine	risperidone	0	nan
-Lumefantrine	fluconazole	0	nan
-Lumefantrine	methotrexate_hydrate	0	nan
-Lumefantrine	tenofovir_alafenamide	0	nan
-Lumefantrine	carbamazepine	0	nan
-Atovaquone	caffeine	0	nan
-Atovaquone	succinic_acid	0	nan
-Atovaquone	octyl_gallate	1	0.0951441721
-Atovaquone	DL-malic_acid	0	nan
-Atovaquone	adipic_acid	0	nan
-Atovaquone	Triazabicyclodecene	0	nan
-Atovaquone	DBU	0	nan
-Atovaquone	L-asparagine	0	nan
-Atovaquone	theobromine	0	nan
-Atovaquone	3,3'-thiodipropionic_acid	0	nan
-Atovaquone	theophylline	0	nan
-Atovaquone	borneol	0	nan
-Atovaquone	cinnamaldehyde	0	nan
-Atovaquone	aspartame	0	nan
-Atovaquone	squalene	0	nan
-Atovaquone	benzaldehyde	0	nan
-Atovaquone	sodium_deoxycholate	0	nan
-Atovaquone	cholic_acid	0	nan
-Atovaquone	glycocholic_acid	0	nan
-Atovaquone	sucrose_octaacetate	1	0.1085751855
-Atovaquone	trans_anethole	0	nan
-Atovaquone	indomethacin	0	nan
-Atovaquone	terpinyl_butyrate	1	0.2456090918
-Atovaquone	hydrocortisone	0	nan
-Atovaquone	candesartan_cilexetil	0	nan
-Atovaquone	neohesperidin_DC	0	nan
-Atovaquone	ursodiol	0	nan
-Atovaquone	diclofenac	0	nan
-Atovaquone	eucalyptol	0	nan
-Atovaquone	beta_carotene	0	nan
-Atovaquone	menthol	0	nan
-Atovaquone	alpha-terpineol	0	nan
-Atovaquone	fenchyl_alcohol	0	nan
-Atovaquone	biotin	0	nan
-Atovaquone	xylitol	0	nan
-Atovaquone	trans-cinnamic_acid	0	nan
-Atovaquone	thimerosal	0	nan
-Atovaquone	tyramine	0	nan
-Atovaquone	fumaric_acid	0	nan
-Atovaquone	congo_red	1	0.2034375881
-Atovaquone	vanillin	0	nan
-Atovaquone	saccharin	0	nan
-Atovaquone	allantoin	0	nan
-Atovaquone	vitamin_A_palmitate	1	0.2045646661
-Atovaquone	acetylcholine_chloride	0	nan
-Atovaquone	dibutyl_phthalate	1	0.1334648258
-Atovaquone	trometamol	0	nan
-Atovaquone	benzoyl_peroxide	1	0.117122194
-Atovaquone	triethyl_citrate	0	nan
-Atovaquone	triacetin	0	nan
-Atovaquone	glycerol	0	nan
-Atovaquone	propylene_glycol	0	nan
-Atovaquone	mebendazole	0	nan
-Atovaquone	L-proline	0	nan
-Atovaquone	L-lysine	0	nan
-Atovaquone	L-ascorbic_acid	0	nan
-Atovaquone	stearic_acid	0	nan
-Atovaquone	(R)-(+)-Limonene	0	nan
-Atovaquone	meglumine	0	nan
-Atovaquone	hydrochlorothiazide	0	nan
-Atovaquone	ketoprofen	0	nan
-Atovaquone	memantine_hydrochloride	0	nan
-Atovaquone	naproxen_sodium	0	nan
-Atovaquone	mannitol	0	nan
-Atovaquone	D-sorbitol	0	nan
-Atovaquone	tannic_acid	0	nan
-Atovaquone	rhodamine_B	0	nan
-Atovaquone	moxifloxacin	0	nan
-Atovaquone	ciprofloxacin	0	nan
-Atovaquone	certirizine	0	nan
-Atovaquone	budesonide	1	0.2355593125
-Atovaquone	etidronic_acid	0	nan
-Atovaquone	emtricitabine	0	nan
-Atovaquone	metoprolol(+)-tartrate	0	nan
-Atovaquone	phenytoin	0	nan
-Atovaquone	propranolol_hydrochloride	1	0.20616136
-Atovaquone	captan	0	nan
-Atovaquone	neotame	0	nan
-Atovaquone	alendronate_sodium	0	nan
-Atovaquone	piroxicam	0	nan
-Atovaquone	desipramine_hydrochloride	1	0.1864374941
-Atovaquone	nadolol	0	nan
-Atovaquone	omeprazole	0	nan
-Atovaquone	labetalol_hydrochloride	0	nan
-Atovaquone	prednisone	0	nan
-Atovaquone	risperidone	1	0.1998685076
-Atovaquone	fluconazole	0	nan
-Atovaquone	methotrexate_hydrate	0	nan
-Atovaquone	tenofovir_alafenamide	0	nan
-Atovaquone	carbamazepine	0	nan
-Nelfinavir	caffeine	0	nan
-Nelfinavir	succinic_acid	0	nan
-Nelfinavir	octyl_gallate	0	nan
-Nelfinavir	DL-malic_acid	0	nan
-Nelfinavir	adipic_acid	0	nan
-Nelfinavir	Triazabicyclodecene	0	nan
-Nelfinavir	DBU	0	nan
-Nelfinavir	L-asparagine	0	nan
-Nelfinavir	theobromine	0	nan
-Nelfinavir	3,3'-thiodipropionic_acid	0	nan
-Nelfinavir	theophylline	0	nan
-Nelfinavir	borneol	0	nan
-Nelfinavir	cinnamaldehyde	0	nan
-Nelfinavir	aspartame	0	nan
-Nelfinavir	squalene	0	nan
-Nelfinavir	benzaldehyde	0	nan
-Nelfinavir	sodium_deoxycholate	0	nan
-Nelfinavir	cholic_acid	0	nan
-Nelfinavir	glycocholic_acid	0	nan
-Nelfinavir	sucrose_octaacetate	0	nan
-Nelfinavir	trans_anethole	0	nan
-Nelfinavir	indomethacin	0	nan
-Nelfinavir	terpinyl_butyrate	0	nan
-Nelfinavir	hydrocortisone	0	nan
-Nelfinavir	candesartan_cilexetil	1	0.0413763467
-Nelfinavir	neohesperidin_DC	0	nan
-Nelfinavir	ursodiol	0	nan
-Nelfinavir	diclofenac	0	nan
-Nelfinavir	eucalyptol	0	nan
-Nelfinavir	beta_carotene	0	nan
-Nelfinavir	menthol	0	nan
-Nelfinavir	alpha-terpineol	0	nan
-Nelfinavir	fenchyl_alcohol	0	nan
-Nelfinavir	biotin	0	nan
-Nelfinavir	xylitol	0	nan
-Nelfinavir	trans-cinnamic_acid	0	nan
-Nelfinavir	thimerosal	0	nan
-Nelfinavir	tyramine	0	nan
-Nelfinavir	fumaric_acid	0	nan
-Nelfinavir	congo_red	1	0.0278707143
-Nelfinavir	vanillin	0	nan
-Nelfinavir	saccharin	0	nan
-Nelfinavir	allantoin	0	nan
-Nelfinavir	vitamin_A_palmitate	0	nan
-Nelfinavir	acetylcholine_chloride	0	nan
-Nelfinavir	dibutyl_phthalate	0	nan
-Nelfinavir	trometamol	0	nan
-Nelfinavir	benzoyl_peroxide	0	nan
-Nelfinavir	triethyl_citrate	0	nan
-Nelfinavir	triacetin	1	0.2043647749
-Nelfinavir	glycerol	0	nan
-Nelfinavir	propylene_glycol	0	nan
-Nelfinavir	mebendazole	0	nan
-Nelfinavir	L-proline	1	0.1217655545
-Nelfinavir	L-lysine	1	0.182510206
-Nelfinavir	L-ascorbic_acid	0	nan
-Nelfinavir	stearic_acid	0	nan
-Nelfinavir	(R)-(+)-Limonene	0	nan
-Nelfinavir	meglumine	0	nan
-Nelfinavir	hydrochlorothiazide	1	0.0835200589
-Nelfinavir	ketoprofen	0	nan
-Nelfinavir	memantine_hydrochloride	1	0.4258878419
-Nelfinavir	naproxen_sodium	1	0.0163602321
-Nelfinavir	mannitol	0	nan
-Nelfinavir	D-sorbitol	0	nan
-Nelfinavir	tannic_acid	0	nan
-Nelfinavir	rhodamine_B	0	nan
-Nelfinavir	moxifloxacin	0	nan
-Nelfinavir	ciprofloxacin	0	nan
-Nelfinavir	certirizine	0	nan
-Nelfinavir	budesonide	0	nan
-Nelfinavir	etidronic_acid	0	nan
-Nelfinavir	emtricitabine	0	nan
-Nelfinavir	metoprolol(+)-tartrate	1	0.1444795727
-Nelfinavir	phenytoin	0	nan
-Nelfinavir	propranolol_hydrochloride	0	nan
-Nelfinavir	captan	1	0.0724393014
-Nelfinavir	neotame	1	0.0558335124
-Nelfinavir	alendronate_sodium	1	0.1250191841
-Nelfinavir	piroxicam	1	0.1042389269
-Nelfinavir	desipramine_hydrochloride	1	0.0228981859
-Nelfinavir	nadolol	0	nan
-Nelfinavir	omeprazole	0	nan
-Nelfinavir	labetalol_hydrochloride	1	0.2285214402
-Nelfinavir	prednisone	1	0.0705976242
-Nelfinavir	risperidone	1	0.4524386875
-Nelfinavir	fluconazole	1	0.1079836705
-Nelfinavir	methotrexate_hydrate	1	0.1186960926
-Nelfinavir	tenofovir_alafenamide	1	0.0132600755
-Nelfinavir	carbamazepine	1	0.0439853894
-Gefitinib	caffeine	0	nan
-Gefitinib	succinic_acid	0	nan
-Gefitinib	octyl_gallate	0	nan
-Gefitinib	DL-malic_acid	0	nan
-Gefitinib	adipic_acid	0	nan
-Gefitinib	Triazabicyclodecene	0	nan
-Gefitinib	DBU	0	nan
-Gefitinib	L-asparagine	0	nan
-Gefitinib	theobromine	0	nan
-Gefitinib	3,3'-thiodipropionic_acid	0	nan
-Gefitinib	theophylline	0	nan
-Gefitinib	borneol	0	nan
-Gefitinib	cinnamaldehyde	0	nan
-Gefitinib	aspartame	0	nan
-Gefitinib	squalene	0	nan
-Gefitinib	benzaldehyde	0	nan
-Gefitinib	sodium_deoxycholate	0	nan
-Gefitinib	cholic_acid	0	nan
-Gefitinib	glycocholic_acid	0	nan
-Gefitinib	sucrose_octaacetate	0	nan
-Gefitinib	trans_anethole	0	nan
-Gefitinib	indomethacin	0	nan
-Gefitinib	terpinyl_butyrate	0	nan
-Gefitinib	hydrocortisone	0	nan
-Gefitinib	candesartan_cilexetil	0	nan
-Gefitinib	neohesperidin_DC	0	nan
-Gefitinib	ursodiol	0	nan
-Gefitinib	diclofenac	0	nan
-Gefitinib	eucalyptol	0	nan
-Gefitinib	beta_carotene	0	nan
-Gefitinib	menthol	0	nan
-Gefitinib	alpha-terpineol	0	nan
-Gefitinib	fenchyl_alcohol	0	nan
-Gefitinib	biotin	0	nan
-Gefitinib	xylitol	0	nan
-Gefitinib	trans-cinnamic_acid	0	nan
-Gefitinib	thimerosal	0	nan
-Gefitinib	tyramine	0	nan
-Gefitinib	fumaric_acid	0	nan
-Gefitinib	congo_red	0	nan
-Gefitinib	vanillin	0	nan
-Gefitinib	saccharin	0	nan
-Gefitinib	allantoin	0	nan
-Gefitinib	vitamin_A_palmitate	0	nan
-Gefitinib	acetylcholine_chloride	0	nan
-Gefitinib	dibutyl_phthalate	0	nan
-Gefitinib	trometamol	0	nan
-Gefitinib	benzoyl_peroxide	0	nan
-Gefitinib	triethyl_citrate	0	nan
-Gefitinib	triacetin	0	nan
-Gefitinib	glycerol	0	nan
-Gefitinib	propylene_glycol	0	nan
-Gefitinib	mebendazole	0	nan
-Gefitinib	L-proline	0	nan
-Gefitinib	L-lysine	0	nan
-Gefitinib	L-ascorbic_acid	0	nan
-Gefitinib	stearic_acid	0	nan
-Gefitinib	(R)-(+)-Limonene	0	nan
-Gefitinib	meglumine	0	nan
-Gefitinib	hydrochlorothiazide	0	nan
-Gefitinib	ketoprofen	0	nan
-Gefitinib	memantine_hydrochloride	0	nan
-Gefitinib	naproxen_sodium	0	nan
-Gefitinib	mannitol	0	nan
-Gefitinib	D-sorbitol	0	nan
-Gefitinib	tannic_acid	0	nan
-Gefitinib	rhodamine_B	0	nan
-Gefitinib	moxifloxacin	0	nan
-Gefitinib	ciprofloxacin	0	nan
-Gefitinib	certirizine	0	nan
-Gefitinib	budesonide	0	nan
-Gefitinib	etidronic_acid	0	nan
-Gefitinib	emtricitabine	0	nan
-Gefitinib	metoprolol(+)-tartrate	0	nan
-Gefitinib	phenytoin	0	nan
-Gefitinib	propranolol_hydrochloride	0	nan
-Gefitinib	captan	0	nan
-Gefitinib	neotame	0	nan
-Gefitinib	alendronate_sodium	0	nan
-Gefitinib	piroxicam	0	nan
-Gefitinib	desipramine_hydrochloride	0	nan
-Gefitinib	nadolol	0	nan
-Gefitinib	omeprazole	0	nan
-Gefitinib	labetalol_hydrochloride	0	nan
-Gefitinib	prednisone	0	nan
-Gefitinib	risperidone	0	nan
-Gefitinib	fluconazole	0	nan
-Gefitinib	methotrexate_hydrate	0	nan
-Gefitinib	tenofovir_alafenamide	0	nan
-Gefitinib	carbamazepine	0	nan
-Fulvestrant	caffeine	0	nan
-Fulvestrant	succinic_acid	0	nan
-Fulvestrant	octyl_gallate	1	0.3629855021
-Fulvestrant	DL-malic_acid	0	nan
-Fulvestrant	adipic_acid	0	nan
-Fulvestrant	Triazabicyclodecene	0	nan
-Fulvestrant	DBU	0	nan
-Fulvestrant	L-asparagine	0	nan
-Fulvestrant	theobromine	0	nan
-Fulvestrant	3,3'-thiodipropionic_acid	1	0.1195632719
-Fulvestrant	theophylline	0	nan
-Fulvestrant	borneol	0	nan
-Fulvestrant	cinnamaldehyde	0	nan
-Fulvestrant	aspartame	0	nan
-Fulvestrant	squalene	0	nan
-Fulvestrant	benzaldehyde	0	nan
-Fulvestrant	sodium_deoxycholate	1	0.2346518704
-Fulvestrant	cholic_acid	1	0.4735994272
-Fulvestrant	glycocholic_acid	1	0.3452657956
-Fulvestrant	sucrose_octaacetate	0	nan
-Fulvestrant	trans_anethole	1	0.2802935386
-Fulvestrant	indomethacin	0	nan
-Fulvestrant	terpinyl_butyrate	0	nan
-Fulvestrant	hydrocortisone	0	nan
-Fulvestrant	candesartan_cilexetil	1	0.1942008233
-Fulvestrant	neohesperidin_DC	0	nan
-Fulvestrant	ursodiol	0	nan
-Fulvestrant	diclofenac	0	nan
-Fulvestrant	eucalyptol	0	nan
-Fulvestrant	beta_carotene	1	0.4231251119
-Fulvestrant	menthol	0	nan
-Fulvestrant	alpha-terpineol	0	nan
-Fulvestrant	fenchyl_alcohol	0	nan
-Fulvestrant	biotin	0	nan
-Fulvestrant	xylitol	0	nan
-Fulvestrant	trans-cinnamic_acid	0	nan
-Fulvestrant	thimerosal	0	nan
-Fulvestrant	tyramine	0	nan
-Fulvestrant	fumaric_acid	0	nan
-Fulvestrant	congo_red	1	0.2278503669
-Fulvestrant	vanillin	0	nan
-Fulvestrant	saccharin	0	nan
-Fulvestrant	allantoin	0	nan
-Fulvestrant	vitamin_A_palmitate	1	0.3737247181
-Fulvestrant	acetylcholine_chloride	0	nan
-Fulvestrant	dibutyl_phthalate	0	nan
-Fulvestrant	trometamol	0	nan
-Fulvestrant	benzoyl_peroxide	0	nan
-Fulvestrant	triethyl_citrate	0	nan
-Fulvestrant	triacetin	0	nan
-Fulvestrant	glycerol	0	nan
-Fulvestrant	propylene_glycol	0	nan
-Fulvestrant	mebendazole	0	nan
-Fulvestrant	L-proline	0	nan
-Fulvestrant	L-lysine	0	nan
-Fulvestrant	L-ascorbic_acid	0	nan
-Fulvestrant	stearic_acid	0	nan
-Fulvestrant	(R)-(+)-Limonene	0	nan
-Fulvestrant	meglumine	0	nan
-Fulvestrant	hydrochlorothiazide	0	nan
-Fulvestrant	ketoprofen	0	nan
-Fulvestrant	memantine_hydrochloride	0	nan
-Fulvestrant	naproxen_sodium	0	nan
-Fulvestrant	mannitol	0	nan
-Fulvestrant	D-sorbitol	0	nan
-Fulvestrant	tannic_acid	1	0.4245570073
-Fulvestrant	rhodamine_B	0	nan
-Fulvestrant	moxifloxacin	0	nan
-Fulvestrant	ciprofloxacin	0	nan
-Fulvestrant	certirizine	0	nan
-Fulvestrant	budesonide	0	nan
-Fulvestrant	etidronic_acid	0	nan
-Fulvestrant	emtricitabine	0	nan
-Fulvestrant	metoprolol(+)-tartrate	0	nan
-Fulvestrant	phenytoin	0	nan
-Fulvestrant	propranolol_hydrochloride	0	nan
-Fulvestrant	captan	0	nan
-Fulvestrant	neotame	0	nan
-Fulvestrant	alendronate_sodium	0	nan
-Fulvestrant	piroxicam	0	nan
-Fulvestrant	desipramine_hydrochloride	0	nan
-Fulvestrant	nadolol	0	nan
-Fulvestrant	omeprazole	0	nan
-Fulvestrant	labetalol_hydrochloride	0	nan
-Fulvestrant	prednisone	0	nan
-Fulvestrant	risperidone	0	nan
-Fulvestrant	fluconazole	0	nan
-Fulvestrant	methotrexate_hydrate	0	nan
-Fulvestrant	tenofovir_alafenamide	0	nan
-Fulvestrant	carbamazepine	0	nan
-Rapamycin	caffeine	0	nan
-Rapamycin	succinic_acid	0	nan
-Rapamycin	octyl_gallate	0	nan
-Rapamycin	DL-malic_acid	0	nan
-Rapamycin	adipic_acid	0	nan
-Rapamycin	Triazabicyclodecene	0	nan
-Rapamycin	DBU	0	nan
-Rapamycin	L-asparagine	0	nan
-Rapamycin	theobromine	0	nan
-Rapamycin	3,3'-thiodipropionic_acid	0	nan
-Rapamycin	theophylline	0	nan
-Rapamycin	borneol	0	nan
-Rapamycin	cinnamaldehyde	0	nan
-Rapamycin	aspartame	0	nan
-Rapamycin	squalene	0	nan
-Rapamycin	benzaldehyde	0	nan
-Rapamycin	sodium_deoxycholate	0	nan
-Rapamycin	cholic_acid	0	nan
-Rapamycin	glycocholic_acid	0	nan
-Rapamycin	sucrose_octaacetate	0	nan
-Rapamycin	trans_anethole	0	nan
-Rapamycin	indomethacin	0	nan
-Rapamycin	terpinyl_butyrate	0	nan
-Rapamycin	hydrocortisone	0	nan
-Rapamycin	candesartan_cilexetil	1	0.1238023197
-Rapamycin	neohesperidin_DC	0	nan
-Rapamycin	ursodiol	0	nan
-Rapamycin	diclofenac	0	nan
-Rapamycin	eucalyptol	0	nan
-Rapamycin	beta_carotene	0	nan
-Rapamycin	menthol	0	nan
-Rapamycin	alpha-terpineol	0	nan
-Rapamycin	fenchyl_alcohol	0	nan
-Rapamycin	biotin	0	nan
-Rapamycin	xylitol	0	nan
-Rapamycin	trans-cinnamic_acid	0	nan
-Rapamycin	thimerosal	0	nan
-Rapamycin	tyramine	0	nan
-Rapamycin	fumaric_acid	0	nan
-Rapamycin	congo_red	1	0.0771558245
-Rapamycin	vanillin	0	nan
-Rapamycin	saccharin	0	nan
-Rapamycin	allantoin	0	nan
-Rapamycin	vitamin_A_palmitate	1	0.2892082703
-Rapamycin	acetylcholine_chloride	0	nan
-Rapamycin	dibutyl_phthalate	0	nan
-Rapamycin	trometamol	0	nan
-Rapamycin	benzoyl_peroxide	0	nan
-Rapamycin	triethyl_citrate	0	nan
-Rapamycin	triacetin	0	nan
-Rapamycin	glycerol	0	nan
-Rapamycin	propylene_glycol	0	nan
-Rapamycin	mebendazole	0	nan
-Rapamycin	L-proline	0	nan
-Rapamycin	L-lysine	0	nan
-Rapamycin	L-ascorbic_acid	0	nan
-Rapamycin	stearic_acid	0	nan
-Rapamycin	(R)-(+)-Limonene	0	nan
-Rapamycin	meglumine	0	nan
-Rapamycin	hydrochlorothiazide	0	nan
-Rapamycin	ketoprofen	0	nan
-Rapamycin	memantine_hydrochloride	0	nan
-Rapamycin	naproxen_sodium	0	nan
-Rapamycin	mannitol	0	nan
-Rapamycin	D-sorbitol	0	nan
-Rapamycin	tannic_acid	0	nan
-Rapamycin	rhodamine_B	0	nan
-Rapamycin	moxifloxacin	0	nan
-Rapamycin	ciprofloxacin	0	nan
-Rapamycin	certirizine	0	nan
-Rapamycin	budesonide	0	nan
-Rapamycin	etidronic_acid	0	nan
-Rapamycin	emtricitabine	0	nan
-Rapamycin	metoprolol(+)-tartrate	0	nan
-Rapamycin	phenytoin	0	nan
-Rapamycin	propranolol_hydrochloride	0	nan
-Rapamycin	captan	0	nan
-Rapamycin	neotame	0	nan
-Rapamycin	alendronate_sodium	0	nan
-Rapamycin	piroxicam	0	nan
-Rapamycin	desipramine_hydrochloride	0	nan
-Rapamycin	nadolol	0	nan
-Rapamycin	omeprazole	0	nan
-Rapamycin	labetalol_hydrochloride	0	nan
-Rapamycin	prednisone	0	nan
-Rapamycin	risperidone	0	nan
-Rapamycin	fluconazole	0	nan
-Rapamycin	methotrexate_hydrate	0	nan
-Rapamycin	tenofovir_alafenamide	0	nan
-Rapamycin	carbamazepine	0	nan
-Rilpivirine	caffeine	0	nan
-Rilpivirine	succinic_acid	0	nan
-Rilpivirine	octyl_gallate	0	nan
-Rilpivirine	DL-malic_acid	0	nan
-Rilpivirine	adipic_acid	0	nan
-Rilpivirine	Triazabicyclodecene	0	nan
-Rilpivirine	DBU	0	nan
-Rilpivirine	L-asparagine	0	nan
-Rilpivirine	theobromine	0	nan
-Rilpivirine	3,3'-thiodipropionic_acid	0	nan
-Rilpivirine	theophylline	0	nan
-Rilpivirine	borneol	0	nan
-Rilpivirine	cinnamaldehyde	0	nan
-Rilpivirine	aspartame	0	nan
-Rilpivirine	squalene	0	nan
-Rilpivirine	benzaldehyde	0	nan
-Rilpivirine	sodium_deoxycholate	1	0.229058857
-Rilpivirine	cholic_acid	0	nan
-Rilpivirine	glycocholic_acid	0	nan
-Rilpivirine	sucrose_octaacetate	0	nan
-Rilpivirine	trans_anethole	0	nan
-Rilpivirine	indomethacin	0	nan
-Rilpivirine	terpinyl_butyrate	0	nan
-Rilpivirine	hydrocortisone	0	nan
-Rilpivirine	candesartan_cilexetil	1	0.1198748934
-Rilpivirine	neohesperidin_DC	0	nan
-Rilpivirine	ursodiol	0	nan
-Rilpivirine	diclofenac	0	nan
-Rilpivirine	eucalyptol	0	nan
-Rilpivirine	beta_carotene	0	nan
-Rilpivirine	menthol	0	nan
-Rilpivirine	alpha-terpineol	0	nan
-Rilpivirine	fenchyl_alcohol	0	nan
-Rilpivirine	biotin	0	nan
-Rilpivirine	xylitol	0	nan
-Rilpivirine	trans-cinnamic_acid	0	nan
-Rilpivirine	thimerosal	0	nan
-Rilpivirine	tyramine	0	nan
-Rilpivirine	fumaric_acid	0	nan
-Rilpivirine	congo_red	1	0.0785897071
-Rilpivirine	vanillin	0	nan
-Rilpivirine	saccharin	0	nan
-Rilpivirine	allantoin	0	nan
-Rilpivirine	vitamin_A_palmitate	1	0.1884560705
-Rilpivirine	acetylcholine_chloride	0	nan
-Rilpivirine	dibutyl_phthalate	0	nan
-Rilpivirine	trometamol	0	nan
-Rilpivirine	benzoyl_peroxide	0	nan
-Rilpivirine	triethyl_citrate	0	nan
-Rilpivirine	triacetin	0	nan
-Rilpivirine	glycerol	0	nan
-Rilpivirine	propylene_glycol	0	nan
-Rilpivirine	mebendazole	0	nan
-Rilpivirine	L-proline	0	nan
-Rilpivirine	L-lysine	0	nan
-Rilpivirine	L-ascorbic_acid	0	nan
-Rilpivirine	stearic_acid	0	nan
-Rilpivirine	(R)-(+)-Limonene	0	nan
-Rilpivirine	meglumine	0	nan
-Rilpivirine	hydrochlorothiazide	0	nan
-Rilpivirine	ketoprofen	1	0.4765425078
-Rilpivirine	memantine_hydrochloride	0	nan
-Rilpivirine	naproxen_sodium	1	0.3913562695
-Rilpivirine	mannitol	0	nan
-Rilpivirine	D-sorbitol	0	nan
-Rilpivirine	tannic_acid	0	nan
-Rilpivirine	rhodamine_B	0	nan
-Rilpivirine	moxifloxacin	0	nan
-Rilpivirine	ciprofloxacin	0	nan
-Rilpivirine	certirizine	0	nan
-Rilpivirine	budesonide	0	nan
-Rilpivirine	etidronic_acid	0	nan
-Rilpivirine	emtricitabine	0	nan
-Rilpivirine	metoprolol(+)-tartrate	0	nan
-Rilpivirine	phenytoin	0	nan
-Rilpivirine	propranolol_hydrochloride	0	nan
-Rilpivirine	captan	0	nan
-Rilpivirine	neotame	0	nan
-Rilpivirine	alendronate_sodium	0	nan
-Rilpivirine	piroxicam	0	nan
-Rilpivirine	desipramine_hydrochloride	0	nan
-Rilpivirine	nadolol	0	nan
-Rilpivirine	omeprazole	0	nan
-Rilpivirine	labetalol_hydrochloride	0	nan
-Rilpivirine	prednisone	0	nan
-Rilpivirine	risperidone	0	nan
-Rilpivirine	fluconazole	0	nan
-Rilpivirine	methotrexate_hydrate	0	nan
-Rilpivirine	tenofovir_alafenamide	0	nan
-Rilpivirine	carbamazepine	0	nan
-Econazole	caffeine	0	nan
-Econazole	succinic_acid	0	nan
-Econazole	octyl_gallate	0	nan
-Econazole	DL-malic_acid	0	nan
-Econazole	adipic_acid	0	nan
-Econazole	Triazabicyclodecene	0	nan
-Econazole	DBU	0	nan
-Econazole	L-asparagine	0	nan
-Econazole	theobromine	0	nan
-Econazole	3,3'-thiodipropionic_acid	0	nan
-Econazole	theophylline	0	nan
-Econazole	borneol	0	nan
-Econazole	cinnamaldehyde	0	nan
-Econazole	aspartame	0	nan
-Econazole	squalene	0	nan
-Econazole	benzaldehyde	0	nan
-Econazole	sodium_deoxycholate	0	nan
-Econazole	cholic_acid	0	nan
-Econazole	glycocholic_acid	0	nan
-Econazole	sucrose_octaacetate	0	nan
-Econazole	trans_anethole	0	nan
-Econazole	indomethacin	0	nan
-Econazole	terpinyl_butyrate	0	nan
-Econazole	hydrocortisone	0	nan
-Econazole	candesartan_cilexetil	0	nan
-Econazole	neohesperidin_DC	0	nan
-Econazole	ursodiol	0	nan
-Econazole	diclofenac	0	nan
-Econazole	eucalyptol	0	nan
-Econazole	beta_carotene	0	nan
-Econazole	menthol	1	0.4910770789
-Econazole	alpha-terpineol	0	nan
-Econazole	fenchyl_alcohol	0	nan
-Econazole	biotin	0	nan
-Econazole	xylitol	0	nan
-Econazole	trans-cinnamic_acid	0	nan
-Econazole	thimerosal	0	nan
-Econazole	tyramine	0	nan
-Econazole	fumaric_acid	0	nan
-Econazole	congo_red	1	0.21339071
-Econazole	vanillin	0	nan
-Econazole	saccharin	0	nan
-Econazole	allantoin	0	nan
-Econazole	vitamin_A_palmitate	0	nan
-Econazole	acetylcholine_chloride	0	nan
-Econazole	dibutyl_phthalate	0	nan
-Econazole	trometamol	0	nan
-Econazole	benzoyl_peroxide	0	nan
-Econazole	triethyl_citrate	0	nan
-Econazole	triacetin	0	nan
-Econazole	glycerol	0	nan
-Econazole	propylene_glycol	0	nan
-Econazole	mebendazole	1	0.3743829895
-Econazole	L-proline	0	nan
-Econazole	L-lysine	0	nan
-Econazole	L-ascorbic_acid	0	nan
-Econazole	stearic_acid	0	nan
-Econazole	(R)-(+)-Limonene	0	nan
-Econazole	meglumine	0	nan
-Econazole	hydrochlorothiazide	0	nan
-Econazole	ketoprofen	0	nan
-Econazole	memantine_hydrochloride	0	nan
-Econazole	naproxen_sodium	0	nan
-Econazole	mannitol	0	nan
-Econazole	D-sorbitol	0	nan
-Econazole	tannic_acid	0	nan
-Econazole	rhodamine_B	0	nan
-Econazole	moxifloxacin	0	nan
-Econazole	ciprofloxacin	0	nan
-Econazole	certirizine	0	nan
-Econazole	budesonide	1	0.4790532844
-Econazole	etidronic_acid	0	nan
-Econazole	emtricitabine	0	nan
-Econazole	metoprolol(+)-tartrate	1	0.3526135932
-Econazole	phenytoin	0	nan
-Econazole	propranolol_hydrochloride	0	nan
-Econazole	captan	0	nan
-Econazole	neotame	1	0.2875585369
-Econazole	alendronate_sodium	0	nan
-Econazole	piroxicam	0	nan
-Econazole	desipramine_hydrochloride	0	nan
-Econazole	nadolol	0	nan
-Econazole	omeprazole	1	0.498544488
-Econazole	labetalol_hydrochloride	0	nan
-Econazole	prednisone	0	nan
-Econazole	risperidone	0	nan
-Econazole	fluconazole	0	nan
-Econazole	methotrexate_hydrate	1	0.3984305784
-Econazole	tenofovir_alafenamide	1	0.3640045564
-Econazole	carbamazepine	0	nan
-Chlorpromazine_Hcl	caffeine	0	nan
-Chlorpromazine_Hcl	succinic_acid	0	nan
-Chlorpromazine_Hcl	octyl_gallate	0	nan
-Chlorpromazine_Hcl	DL-malic_acid	0	nan
-Chlorpromazine_Hcl	adipic_acid	0	nan
-Chlorpromazine_Hcl	Triazabicyclodecene	0	nan
-Chlorpromazine_Hcl	DBU	0	nan
-Chlorpromazine_Hcl	L-asparagine	0	nan
-Chlorpromazine_Hcl	theobromine	0	nan
-Chlorpromazine_Hcl	3,3'-thiodipropionic_acid	0	nan
-Chlorpromazine_Hcl	theophylline	0	nan
-Chlorpromazine_Hcl	borneol	0	nan
-Chlorpromazine_Hcl	cinnamaldehyde	0	nan
-Chlorpromazine_Hcl	aspartame	0	nan
-Chlorpromazine_Hcl	squalene	0	nan
-Chlorpromazine_Hcl	benzaldehyde	0	nan
-Chlorpromazine_Hcl	sodium_deoxycholate	0	nan
-Chlorpromazine_Hcl	cholic_acid	0	nan
-Chlorpromazine_Hcl	glycocholic_acid	1	0.4518322003
-Chlorpromazine_Hcl	sucrose_octaacetate	0	nan
-Chlorpromazine_Hcl	trans_anethole	0	nan
-Chlorpromazine_Hcl	indomethacin	0	nan
-Chlorpromazine_Hcl	terpinyl_butyrate	1	0.336428453
-Chlorpromazine_Hcl	hydrocortisone	0	nan
-Chlorpromazine_Hcl	candesartan_cilexetil	1	0.36395291
-Chlorpromazine_Hcl	neohesperidin_DC	0	nan
-Chlorpromazine_Hcl	ursodiol	0	nan
-Chlorpromazine_Hcl	diclofenac	0	nan
-Chlorpromazine_Hcl	eucalyptol	0	nan
-Chlorpromazine_Hcl	beta_carotene	0	nan
-Chlorpromazine_Hcl	menthol	0	nan
-Chlorpromazine_Hcl	alpha-terpineol	0	nan
-Chlorpromazine_Hcl	fenchyl_alcohol	0	nan
-Chlorpromazine_Hcl	biotin	0	nan
-Chlorpromazine_Hcl	xylitol	0	nan
-Chlorpromazine_Hcl	trans-cinnamic_acid	0	nan
-Chlorpromazine_Hcl	thimerosal	0	nan
-Chlorpromazine_Hcl	tyramine	0	nan
-Chlorpromazine_Hcl	fumaric_acid	0	nan
-Chlorpromazine_Hcl	congo_red	1	0.2029514177
-Chlorpromazine_Hcl	vanillin	0	nan
-Chlorpromazine_Hcl	saccharin	0	nan
-Chlorpromazine_Hcl	allantoin	0	nan
-Chlorpromazine_Hcl	vitamin_A_palmitate	0	nan
-Chlorpromazine_Hcl	acetylcholine_chloride	0	nan
-Chlorpromazine_Hcl	dibutyl_phthalate	0	nan
-Chlorpromazine_Hcl	trometamol	0	nan
-Chlorpromazine_Hcl	benzoyl_peroxide	0	nan
-Chlorpromazine_Hcl	triethyl_citrate	0	nan
-Chlorpromazine_Hcl	triacetin	0	nan
-Chlorpromazine_Hcl	glycerol	0	nan
-Chlorpromazine_Hcl	propylene_glycol	0	nan
-Chlorpromazine_Hcl	mebendazole	0	nan
-Chlorpromazine_Hcl	L-proline	0	nan
-Chlorpromazine_Hcl	L-lysine	0	nan
-Chlorpromazine_Hcl	L-ascorbic_acid	0	nan
-Chlorpromazine_Hcl	stearic_acid	0	nan
-Chlorpromazine_Hcl	(R)-(+)-Limonene	0	nan
-Chlorpromazine_Hcl	meglumine	0	nan
-Chlorpromazine_Hcl	hydrochlorothiazide	0	nan
-Chlorpromazine_Hcl	ketoprofen	0	nan
-Chlorpromazine_Hcl	memantine_hydrochloride	0	nan
-Chlorpromazine_Hcl	naproxen_sodium	0	nan
-Chlorpromazine_Hcl	mannitol	0	nan
-Chlorpromazine_Hcl	D-sorbitol	0	nan
-Chlorpromazine_Hcl	tannic_acid	1	0.4690764384
-Chlorpromazine_Hcl	rhodamine_B	0	nan
-Chlorpromazine_Hcl	moxifloxacin	0	nan
-Chlorpromazine_Hcl	ciprofloxacin	0	nan
-Chlorpromazine_Hcl	certirizine	0	nan
-Chlorpromazine_Hcl	budesonide	0	nan
-Chlorpromazine_Hcl	etidronic_acid	0	nan
-Chlorpromazine_Hcl	emtricitabine	0	nan
-Chlorpromazine_Hcl	metoprolol(+)-tartrate	0	nan
-Chlorpromazine_Hcl	phenytoin	0	nan
-Chlorpromazine_Hcl	propranolol_hydrochloride	0	nan
-Chlorpromazine_Hcl	captan	0	nan
-Chlorpromazine_Hcl	neotame	0	nan
-Chlorpromazine_Hcl	alendronate_sodium	0	nan
-Chlorpromazine_Hcl	piroxicam	0	nan
-Chlorpromazine_Hcl	desipramine_hydrochloride	0	nan
-Chlorpromazine_Hcl	nadolol	0	nan
-Chlorpromazine_Hcl	omeprazole	0	nan
-Chlorpromazine_Hcl	labetalol_hydrochloride	0	nan
-Chlorpromazine_Hcl	prednisone	0	nan
-Chlorpromazine_Hcl	risperidone	0	nan
-Chlorpromazine_Hcl	fluconazole	0	nan
-Chlorpromazine_Hcl	methotrexate_hydrate	0	nan
-Chlorpromazine_Hcl	tenofovir_alafenamide	0	nan
-Chlorpromazine_Hcl	carbamazepine	0	nan
-Taxol	caffeine	0	nan
-Taxol	succinic_acid	0	nan
-Taxol	octyl_gallate	0	nan
-Taxol	DL-malic_acid	0	nan
-Taxol	adipic_acid	0	nan
-Taxol	Triazabicyclodecene	0	nan
-Taxol	DBU	0	nan
-Taxol	L-asparagine	0	nan
-Taxol	theobromine	0	nan
-Taxol	3,3'-thiodipropionic_acid	0	nan
-Taxol	theophylline	0	nan
-Taxol	borneol	0	nan
-Taxol	cinnamaldehyde	0	nan
-Taxol	aspartame	0	nan
-Taxol	squalene	0	nan
-Taxol	benzaldehyde	0	nan
-Taxol	sodium_deoxycholate	0	nan
-Taxol	cholic_acid	0	nan
-Taxol	glycocholic_acid	0	nan
-Taxol	sucrose_octaacetate	0	nan
-Taxol	trans_anethole	0	nan
-Taxol	indomethacin	0	nan
-Taxol	terpinyl_butyrate	0	nan
-Taxol	hydrocortisone	0	nan
-Taxol	candesartan_cilexetil	0	nan
-Taxol	neohesperidin_DC	0	nan
-Taxol	ursodiol	0	nan
-Taxol	diclofenac	0	nan
-Taxol	eucalyptol	0	nan
-Taxol	beta_carotene	0	nan
-Taxol	menthol	0	nan
-Taxol	alpha-terpineol	0	nan
-Taxol	fenchyl_alcohol	0	nan
-Taxol	biotin	0	nan
-Taxol	xylitol	0	nan
-Taxol	trans-cinnamic_acid	0	nan
-Taxol	thimerosal	0	nan
-Taxol	tyramine	0	nan
-Taxol	fumaric_acid	0	nan
-Taxol	congo_red	1	0.3458687895
-Taxol	vanillin	0	nan
-Taxol	saccharin	0	nan
-Taxol	allantoin	0	nan
-Taxol	vitamin_A_palmitate	0	nan
-Taxol	acetylcholine_chloride	0	nan
-Taxol	dibutyl_phthalate	0	nan
-Taxol	trometamol	0	nan
-Taxol	benzoyl_peroxide	0	nan
-Taxol	triethyl_citrate	0	nan
-Taxol	triacetin	0	nan
-Taxol	glycerol	0	nan
-Taxol	propylene_glycol	0	nan
-Taxol	mebendazole	0	nan
-Taxol	L-proline	0	nan
-Taxol	L-lysine	0	nan
-Taxol	L-ascorbic_acid	0	nan
-Taxol	stearic_acid	0	nan
-Taxol	(R)-(+)-Limonene	0	nan
-Taxol	meglumine	0	nan
-Taxol	hydrochlorothiazide	0	nan
-Taxol	ketoprofen	0	nan
-Taxol	memantine_hydrochloride	0	nan
-Taxol	naproxen_sodium	0	nan
-Taxol	mannitol	0	nan
-Taxol	D-sorbitol	0	nan
-Taxol	tannic_acid	0	nan
-Taxol	rhodamine_B	0	nan
-Taxol	moxifloxacin	0	nan
-Taxol	ciprofloxacin	0	nan
-Taxol	certirizine	0	nan
-Taxol	budesonide	0	nan
-Taxol	etidronic_acid	0	nan
-Taxol	emtricitabine	0	nan
-Taxol	metoprolol(+)-tartrate	0	nan
-Taxol	phenytoin	0	nan
-Taxol	propranolol_hydrochloride	0	nan
-Taxol	captan	0	nan
-Taxol	neotame	0	nan
-Taxol	alendronate_sodium	0	nan
-Taxol	piroxicam	0	nan
-Taxol	desipramine_hydrochloride	0	nan
-Taxol	nadolol	0	nan
-Taxol	omeprazole	0	nan
-Taxol	labetalol_hydrochloride	0	nan
-Taxol	prednisone	0	nan
-Taxol	risperidone	0	nan
-Taxol	fluconazole	0	nan
-Taxol	methotrexate_hydrate	0	nan
-Taxol	tenofovir_alafenamide	0	nan
-Taxol	carbamazepine	0	nan
-Physcion	caffeine	0	nan
-Physcion	succinic_acid	0	nan
-Physcion	octyl_gallate	0	nan
-Physcion	DL-malic_acid	0	nan
-Physcion	adipic_acid	0	nan
-Physcion	Triazabicyclodecene	0	nan
-Physcion	DBU	0	nan
-Physcion	L-asparagine	0	nan
-Physcion	theobromine	0	nan
-Physcion	3,3'-thiodipropionic_acid	0	nan
-Physcion	theophylline	0	nan
-Physcion	borneol	0	nan
-Physcion	cinnamaldehyde	0	nan
-Physcion	aspartame	0	nan
-Physcion	squalene	0	nan
-Physcion	benzaldehyde	0	nan
-Physcion	sodium_deoxycholate	0	nan
-Physcion	cholic_acid	0	nan
-Physcion	glycocholic_acid	0	nan
-Physcion	sucrose_octaacetate	0	nan
-Physcion	trans_anethole	0	nan
-Physcion	indomethacin	1	0.3915809167
-Physcion	terpinyl_butyrate	0	nan
-Physcion	hydrocortisone	0	nan
-Physcion	candesartan_cilexetil	0	nan
-Physcion	neohesperidin_DC	0	nan
-Physcion	ursodiol	0	nan
-Physcion	diclofenac	0	nan
-Physcion	eucalyptol	0	nan
-Physcion	beta_carotene	1	0.455191768
-Physcion	menthol	0	nan
-Physcion	alpha-terpineol	0	nan
-Physcion	fenchyl_alcohol	0	nan
-Physcion	biotin	0	nan
-Physcion	xylitol	0	nan
-Physcion	trans-cinnamic_acid	0	nan
-Physcion	thimerosal	0	nan
-Physcion	tyramine	0	nan
-Physcion	fumaric_acid	0	nan
-Physcion	congo_red	0	nan
-Physcion	vanillin	0	nan
-Physcion	saccharin	0	nan
-Physcion	allantoin	0	nan
-Physcion	vitamin_A_palmitate	0	nan
-Physcion	acetylcholine_chloride	0	nan
-Physcion	dibutyl_phthalate	0	nan
-Physcion	trometamol	0	nan
-Physcion	benzoyl_peroxide	0	nan
-Physcion	triethyl_citrate	0	nan
-Physcion	triacetin	0	nan
-Physcion	glycerol	0	nan
-Physcion	propylene_glycol	0	nan
-Physcion	mebendazole	0	nan
-Physcion	L-proline	0	nan
-Physcion	L-lysine	0	nan
-Physcion	L-ascorbic_acid	0	nan
-Physcion	stearic_acid	0	nan
-Physcion	(R)-(+)-Limonene	0	nan
-Physcion	meglumine	0	nan
-Physcion	hydrochlorothiazide	0	nan
-Physcion	ketoprofen	0	nan
-Physcion	memantine_hydrochloride	0	nan
-Physcion	naproxen_sodium	0	nan
-Physcion	mannitol	0	nan
-Physcion	D-sorbitol	0	nan
-Physcion	tannic_acid	0	nan
-Physcion	rhodamine_B	0	nan
-Physcion	moxifloxacin	0	nan
-Physcion	ciprofloxacin	0	nan
-Physcion	certirizine	0	nan
-Physcion	budesonide	0	nan
-Physcion	etidronic_acid	0	nan
-Physcion	emtricitabine	0	nan
-Physcion	metoprolol(+)-tartrate	0	nan
-Physcion	phenytoin	0	nan
-Physcion	propranolol_hydrochloride	0	nan
-Physcion	captan	0	nan
-Physcion	neotame	0	nan
-Physcion	alendronate_sodium	0	nan
-Physcion	piroxicam	0	nan
-Physcion	desipramine_hydrochloride	0	nan
-Physcion	nadolol	0	nan
-Physcion	omeprazole	0	nan
-Physcion	labetalol_hydrochloride	0	nan
-Physcion	prednisone	0	nan
-Physcion	risperidone	0	nan
-Physcion	fluconazole	0	nan
-Physcion	methotrexate_hydrate	0	nan
-Physcion	tenofovir_alafenamide	0	nan
-Physcion	carbamazepine	0	nan
-Curcumine	caffeine	0	nan
-Curcumine	succinic_acid	0	nan
-Curcumine	octyl_gallate	0	nan
-Curcumine	DL-malic_acid	0	nan
-Curcumine	adipic_acid	0	nan
-Curcumine	Triazabicyclodecene	0	nan
-Curcumine	DBU	0	nan
-Curcumine	L-asparagine	0	nan
-Curcumine	theobromine	0	nan
-Curcumine	3,3'-thiodipropionic_acid	0	nan
-Curcumine	theophylline	0	nan
-Curcumine	borneol	0	nan
-Curcumine	cinnamaldehyde	0	nan
-Curcumine	aspartame	0	nan
-Curcumine	squalene	0	nan
-Curcumine	benzaldehyde	0	nan
-Curcumine	sodium_deoxycholate	0	nan
-Curcumine	cholic_acid	0	nan
-Curcumine	glycocholic_acid	0	nan
-Curcumine	sucrose_octaacetate	0	nan
-Curcumine	trans_anethole	0	nan
-Curcumine	indomethacin	0	nan
-Curcumine	terpinyl_butyrate	0	nan
-Curcumine	hydrocortisone	0	nan
-Curcumine	candesartan_cilexetil	1	0.3197427119
-Curcumine	neohesperidin_DC	0	nan
-Curcumine	ursodiol	0	nan
-Curcumine	diclofenac	0	nan
-Curcumine	eucalyptol	0	nan
-Curcumine	beta_carotene	0	nan
-Curcumine	menthol	0	nan
-Curcumine	alpha-terpineol	0	nan
-Curcumine	fenchyl_alcohol	0	nan
-Curcumine	biotin	0	nan
-Curcumine	xylitol	0	nan
-Curcumine	trans-cinnamic_acid	1	0.4832451499
-Curcumine	thimerosal	0	nan
-Curcumine	tyramine	0	nan
-Curcumine	fumaric_acid	0	nan
-Curcumine	congo_red	0	nan
-Curcumine	vanillin	0	nan
-Curcumine	saccharin	0	nan
-Curcumine	allantoin	0	nan
-Curcumine	vitamin_A_palmitate	0	nan
-Curcumine	acetylcholine_chloride	0	nan
-Curcumine	dibutyl_phthalate	0	nan
-Curcumine	trometamol	0	nan
-Curcumine	benzoyl_peroxide	0	nan
-Curcumine	triethyl_citrate	0	nan
-Curcumine	triacetin	0	nan
-Curcumine	glycerol	0	nan
-Curcumine	propylene_glycol	0	nan
-Curcumine	mebendazole	0	nan
-Curcumine	L-proline	0	nan
-Curcumine	L-lysine	0	nan
-Curcumine	L-ascorbic_acid	0	nan
-Curcumine	stearic_acid	0	nan
-Curcumine	(R)-(+)-Limonene	0	nan
-Curcumine	meglumine	0	nan
-Curcumine	hydrochlorothiazide	0	nan
-Curcumine	ketoprofen	0	nan
-Curcumine	memantine_hydrochloride	0	nan
-Curcumine	naproxen_sodium	0	nan
-Curcumine	mannitol	0	nan
-Curcumine	D-sorbitol	0	nan
-Curcumine	tannic_acid	0	nan
-Curcumine	rhodamine_B	0	nan
-Curcumine	moxifloxacin	0	nan
-Curcumine	ciprofloxacin	0	nan
-Curcumine	certirizine	0	nan
-Curcumine	budesonide	0	nan
-Curcumine	etidronic_acid	0	nan
-Curcumine	emtricitabine	0	nan
-Curcumine	metoprolol(+)-tartrate	0	nan
-Curcumine	phenytoin	0	nan
-Curcumine	propranolol_hydrochloride	0	nan
-Curcumine	captan	0	nan
-Curcumine	neotame	0	nan
-Curcumine	alendronate_sodium	0	nan
-Curcumine	piroxicam	0	nan
-Curcumine	desipramine_hydrochloride	0	nan
-Curcumine	nadolol	0	nan
-Curcumine	omeprazole	0	nan
-Curcumine	labetalol_hydrochloride	0	nan
-Curcumine	prednisone	0	nan
-Curcumine	risperidone	0	nan
-Curcumine	fluconazole	0	nan
-Curcumine	methotrexate_hydrate	0	nan
-Curcumine	tenofovir_alafenamide	0	nan
-Curcumine	carbamazepine	0	nan
-Etravirine	caffeine	0	nan
-Etravirine	succinic_acid	0	nan
-Etravirine	octyl_gallate	0	nan
-Etravirine	DL-malic_acid	0	nan
-Etravirine	adipic_acid	0	nan
-Etravirine	Triazabicyclodecene	0	nan
-Etravirine	DBU	0	nan
-Etravirine	L-asparagine	0	nan
-Etravirine	theobromine	0	nan
-Etravirine	3,3'-thiodipropionic_acid	0	nan
-Etravirine	theophylline	0	nan
-Etravirine	borneol	0	nan
-Etravirine	cinnamaldehyde	0	nan
-Etravirine	aspartame	0	nan
-Etravirine	squalene	0	nan
-Etravirine	benzaldehyde	0	nan
-Etravirine	sodium_deoxycholate	0	nan
-Etravirine	cholic_acid	0	nan
-Etravirine	glycocholic_acid	0	nan
-Etravirine	sucrose_octaacetate	0	nan
-Etravirine	trans_anethole	0	nan
-Etravirine	indomethacin	1	0.4150696151
-Etravirine	terpinyl_butyrate	0	nan
-Etravirine	hydrocortisone	0	nan
-Etravirine	candesartan_cilexetil	1	0.4766584767
-Etravirine	neohesperidin_DC	0	nan
-Etravirine	ursodiol	0	nan
-Etravirine	diclofenac	0	nan
-Etravirine	eucalyptol	0	nan
-Etravirine	beta_carotene	1	0.4004914005
-Etravirine	menthol	0	nan
-Etravirine	alpha-terpineol	0	nan
-Etravirine	fenchyl_alcohol	0	nan
-Etravirine	biotin	0	nan
-Etravirine	xylitol	0	nan
-Etravirine	trans-cinnamic_acid	0	nan
-Etravirine	thimerosal	0	nan
-Etravirine	tyramine	0	nan
-Etravirine	fumaric_acid	0	nan
-Etravirine	congo_red	0	nan
-Etravirine	vanillin	0	nan
-Etravirine	saccharin	0	nan
-Etravirine	allantoin	0	nan
-Etravirine	vitamin_A_palmitate	0	nan
-Etravirine	acetylcholine_chloride	0	nan
-Etravirine	dibutyl_phthalate	0	nan
-Etravirine	trometamol	0	nan
-Etravirine	benzoyl_peroxide	0	nan
-Etravirine	triethyl_citrate	0	nan
-Etravirine	triacetin	0	nan
-Etravirine	glycerol	0	nan
-Etravirine	propylene_glycol	0	nan
-Etravirine	mebendazole	0	nan
-Etravirine	L-proline	0	nan
-Etravirine	L-lysine	0	nan
-Etravirine	L-ascorbic_acid	0	nan
-Etravirine	stearic_acid	0	nan
-Etravirine	(R)-(+)-Limonene	0	nan
-Etravirine	meglumine	0	nan
-Etravirine	hydrochlorothiazide	0	nan
-Etravirine	ketoprofen	0	nan
-Etravirine	memantine_hydrochloride	0	nan
-Etravirine	naproxen_sodium	0	nan
-Etravirine	mannitol	0	nan
-Etravirine	D-sorbitol	0	nan
-Etravirine	tannic_acid	0	nan
-Etravirine	rhodamine_B	0	nan
-Etravirine	moxifloxacin	0	nan
-Etravirine	ciprofloxacin	0	nan
-Etravirine	certirizine	0	nan
-Etravirine	budesonide	1	0.4770679771
-Etravirine	etidronic_acid	0	nan
-Etravirine	emtricitabine	0	nan
-Etravirine	metoprolol(+)-tartrate	0	nan
-Etravirine	phenytoin	0	nan
-Etravirine	propranolol_hydrochloride	0	nan
-Etravirine	captan	0	nan
-Etravirine	neotame	0	nan
-Etravirine	alendronate_sodium	0	nan
-Etravirine	piroxicam	0	nan
-Etravirine	desipramine_hydrochloride	0	nan
-Etravirine	nadolol	0	nan
-Etravirine	omeprazole	0	nan
-Etravirine	labetalol_hydrochloride	0	nan
-Etravirine	prednisone	0	nan
-Etravirine	risperidone	0	nan
-Etravirine	fluconazole	0	nan
-Etravirine	methotrexate_hydrate	0	nan
-Etravirine	tenofovir_alafenamide	0	nan
-Etravirine	carbamazepine	1	0.1097461097
-Clofazimine	caffeine	0	nan
-Clofazimine	succinic_acid	0	nan
-Clofazimine	octyl_gallate	0	nan
-Clofazimine	DL-malic_acid	0	nan
-Clofazimine	adipic_acid	0	nan
-Clofazimine	Triazabicyclodecene	0	nan
-Clofazimine	DBU	0	nan
-Clofazimine	L-asparagine	0	nan
-Clofazimine	theobromine	0	nan
-Clofazimine	3,3'-thiodipropionic_acid	0	nan
-Clofazimine	theophylline	0	nan
-Clofazimine	borneol	0	nan
-Clofazimine	cinnamaldehyde	0	nan
-Clofazimine	aspartame	0	nan
-Clofazimine	squalene	0	nan
-Clofazimine	benzaldehyde	0	nan
-Clofazimine	sodium_deoxycholate	0	nan
-Clofazimine	cholic_acid	0	nan
-Clofazimine	glycocholic_acid	0	nan
-Clofazimine	sucrose_octaacetate	0	nan
-Clofazimine	trans_anethole	0	nan
-Clofazimine	indomethacin	1	0.411225997
-Clofazimine	terpinyl_butyrate	0	nan
-Clofazimine	hydrocortisone	0	nan
-Clofazimine	candesartan_cilexetil	1	0.3629246677
-Clofazimine	neohesperidin_DC	0	nan
-Clofazimine	ursodiol	0	nan
-Clofazimine	diclofenac	0	nan
-Clofazimine	eucalyptol	0	nan
-Clofazimine	beta_carotene	0	nan
-Clofazimine	menthol	0	nan
-Clofazimine	alpha-terpineol	0	nan
-Clofazimine	fenchyl_alcohol	0	nan
-Clofazimine	biotin	0	nan
-Clofazimine	xylitol	0	nan
-Clofazimine	trans-cinnamic_acid	0	nan
-Clofazimine	thimerosal	0	nan
-Clofazimine	tyramine	0	nan
-Clofazimine	fumaric_acid	0	nan
-Clofazimine	congo_red	0	nan
-Clofazimine	vanillin	0	nan
-Clofazimine	saccharin	0	nan
-Clofazimine	allantoin	0	nan
-Clofazimine	vitamin_A_palmitate	0	nan
-Clofazimine	acetylcholine_chloride	0	nan
-Clofazimine	dibutyl_phthalate	0	nan
-Clofazimine	trometamol	0	nan
-Clofazimine	benzoyl_peroxide	0	nan
-Clofazimine	triethyl_citrate	0	nan
-Clofazimine	triacetin	0	nan
-Clofazimine	glycerol	0	nan
-Clofazimine	propylene_glycol	0	nan
-Clofazimine	mebendazole	1	0.4920236337
-Clofazimine	L-proline	0	nan
-Clofazimine	L-lysine	0	nan
-Clofazimine	L-ascorbic_acid	0	nan
-Clofazimine	stearic_acid	0	nan
-Clofazimine	(R)-(+)-Limonene	0	nan
-Clofazimine	meglumine	0	nan
-Clofazimine	hydrochlorothiazide	0	nan
-Clofazimine	ketoprofen	0	nan
-Clofazimine	memantine_hydrochloride	0	nan
-Clofazimine	naproxen_sodium	0	nan
-Clofazimine	mannitol	0	nan
-Clofazimine	D-sorbitol	0	nan
-Clofazimine	tannic_acid	0	nan
-Clofazimine	rhodamine_B	0	nan
-Clofazimine	moxifloxacin	0	nan
-Clofazimine	ciprofloxacin	0	nan
-Clofazimine	certirizine	0	nan
-Clofazimine	budesonide	0	nan
-Clofazimine	etidronic_acid	0	nan
-Clofazimine	emtricitabine	0	nan
-Clofazimine	metoprolol(+)-tartrate	0	nan
-Clofazimine	phenytoin	0	nan
-Clofazimine	propranolol_hydrochloride	0	nan
-Clofazimine	captan	0	nan
-Clofazimine	neotame	0	nan
-Clofazimine	alendronate_sodium	0	nan
-Clofazimine	piroxicam	0	nan
-Clofazimine	desipramine_hydrochloride	0	nan
-Clofazimine	nadolol	0	nan
-Clofazimine	omeprazole	0	nan
-Clofazimine	labetalol_hydrochloride	0	nan
-Clofazimine	prednisone	0	nan
-Clofazimine	risperidone	0	nan
-Clofazimine	fluconazole	0	nan
-Clofazimine	methotrexate_hydrate	0	nan
-Clofazimine	tenofovir_alafenamide	0	nan
-Clofazimine	carbamazepine	0	nan
-Pranlukast	caffeine	0	nan
-Pranlukast	succinic_acid	0	nan
-Pranlukast	octyl_gallate	0	nan
-Pranlukast	DL-malic_acid	0	nan
-Pranlukast	adipic_acid	0	nan
-Pranlukast	Triazabicyclodecene	0	nan
-Pranlukast	DBU	0	nan
-Pranlukast	L-asparagine	0	nan
-Pranlukast	theobromine	0	nan
-Pranlukast	3,3'-thiodipropionic_acid	0	nan
-Pranlukast	theophylline	0	nan
-Pranlukast	borneol	0	nan
-Pranlukast	cinnamaldehyde	0	nan
-Pranlukast	aspartame	0	nan
-Pranlukast	squalene	0	nan
-Pranlukast	benzaldehyde	0	nan
-Pranlukast	sodium_deoxycholate	0	nan
-Pranlukast	cholic_acid	0	nan
-Pranlukast	glycocholic_acid	0	nan
-Pranlukast	sucrose_octaacetate	0	nan
-Pranlukast	trans_anethole	0	nan
-Pranlukast	indomethacin	0	nan
-Pranlukast	terpinyl_butyrate	0	nan
-Pranlukast	hydrocortisone	0	nan
-Pranlukast	candesartan_cilexetil	0	nan
-Pranlukast	neohesperidin_DC	0	nan
-Pranlukast	ursodiol	0	nan
-Pranlukast	diclofenac	0	nan
-Pranlukast	eucalyptol	0	nan
-Pranlukast	beta_carotene	0	nan
-Pranlukast	menthol	0	nan
-Pranlukast	alpha-terpineol	0	nan
-Pranlukast	fenchyl_alcohol	0	nan
-Pranlukast	biotin	0	nan
-Pranlukast	xylitol	0	nan
-Pranlukast	trans-cinnamic_acid	0	nan
-Pranlukast	thimerosal	0	nan
-Pranlukast	tyramine	0	nan
-Pranlukast	fumaric_acid	0	nan
-Pranlukast	congo_red	0	nan
-Pranlukast	vanillin	0	nan
-Pranlukast	saccharin	0	nan
-Pranlukast	allantoin	0	nan
-Pranlukast	vitamin_A_palmitate	0	nan
-Pranlukast	acetylcholine_chloride	0	nan
-Pranlukast	dibutyl_phthalate	0	nan
-Pranlukast	trometamol	0	nan
-Pranlukast	benzoyl_peroxide	0	nan
-Pranlukast	triethyl_citrate	0	nan
-Pranlukast	triacetin	0	nan
-Pranlukast	glycerol	0	nan
-Pranlukast	propylene_glycol	0	nan
-Pranlukast	mebendazole	0	nan
-Pranlukast	L-proline	0	nan
-Pranlukast	L-lysine	0	nan
-Pranlukast	L-ascorbic_acid	0	nan
-Pranlukast	stearic_acid	0	nan
-Pranlukast	(R)-(+)-Limonene	0	nan
-Pranlukast	meglumine	0	nan
-Pranlukast	hydrochlorothiazide	0	nan
-Pranlukast	ketoprofen	0	nan
-Pranlukast	memantine_hydrochloride	0	nan
-Pranlukast	naproxen_sodium	0	nan
-Pranlukast	mannitol	0	nan
-Pranlukast	D-sorbitol	0	nan
-Pranlukast	tannic_acid	0	nan
-Pranlukast	rhodamine_B	0	nan
-Pranlukast	moxifloxacin	0	nan
-Pranlukast	ciprofloxacin	0	nan
-Pranlukast	certirizine	0	nan
-Pranlukast	budesonide	0	nan
-Pranlukast	etidronic_acid	0	nan
-Pranlukast	emtricitabine	0	nan
-Pranlukast	metoprolol(+)-tartrate	0	nan
-Pranlukast	phenytoin	0	nan
-Pranlukast	propranolol_hydrochloride	0	nan
-Pranlukast	captan	0	nan
-Pranlukast	neotame	0	nan
-Pranlukast	alendronate_sodium	0	nan
-Pranlukast	piroxicam	0	nan
-Pranlukast	desipramine_hydrochloride	0	nan
-Pranlukast	nadolol	0	nan
-Pranlukast	omeprazole	0	nan
-Pranlukast	labetalol_hydrochloride	0	nan
-Pranlukast	prednisone	0	nan
-Pranlukast	risperidone	0	nan
-Pranlukast	fluconazole	0	nan
-Pranlukast	methotrexate_hydrate	0	nan
-Pranlukast	tenofovir_alafenamide	0	nan
-Pranlukast	carbamazepine	0	nan
+DRUG	EXCIPIENT	CLASS	SIZE_REDUCTION	RADIUS
+Sorafenib	caffeine	0	nan	nan
+Sorafenib	succinic_acid	0	nan	nan
+Sorafenib	octyl_gallate	0	nan	nan
+Sorafenib	DL-malic_acid	0	nan	nan
+Sorafenib	adipic_acid	0	nan	nan
+Sorafenib	Triazabicyclodecene	0	nan	nan
+Sorafenib	DBU	0	nan	nan
+Sorafenib	L-asparagine	0	nan	nan
+Sorafenib	theobromine	0	nan	nan
+Sorafenib	3,3'-thiodipropionic_acid	0	nan	nan
+Sorafenib	theophylline	0	nan	nan
+Sorafenib	borneol	0	nan	nan
+Sorafenib	cinnamaldehyde	0	nan	nan
+Sorafenib	aspartame	0	nan	nan
+Sorafenib	squalene	0	nan	nan
+Sorafenib	benzaldehyde	0	nan	nan
+Sorafenib	sodium_deoxycholate	1	0.466471298	67.65
+Sorafenib	cholic_acid	1	0.481985865	69.9
+Sorafenib	glycocholic_acid	1	0.447853818	64.95
+Sorafenib	sucrose_octaacetate	0	nan	nan
+Sorafenib	trans_anethole	0	nan	nan
+Sorafenib	indomethacin	1	0.426822962	61.9
+Sorafenib	terpinyl_butyrate	0	nan	nan
+Sorafenib	hydrocortisone	0	nan	nan
+Sorafenib	candesartan_cilexetil	1	0.420617135	61
+Sorafenib	neohesperidin_DC	0	nan	nan
+Sorafenib	ursodiol	0	nan	nan
+Sorafenib	diclofenac	0	nan	nan
+Sorafenib	eucalyptol	0	nan	nan
+Sorafenib	beta_carotene	0	nan	nan
+Sorafenib	menthol	0	nan	nan
+Sorafenib	alpha-terpineol	0	nan	nan
+Sorafenib	fenchyl_alcohol	0	nan	nan
+Sorafenib	biotin	0	nan	nan
+Sorafenib	xylitol	0	nan	nan
+Sorafenib	trans-cinnamic_acid	0	nan	nan
+Sorafenib	thimerosal	0	nan	nan
+Sorafenib	tyramine	0	nan	nan
+Sorafenib	fumaric_acid	0	nan	nan
+Sorafenib	congo_red	1	0.175831753	25.5
+Sorafenib	vanillin	0	nan	nan
+Sorafenib	saccharin	0	nan	nan
+Sorafenib	allantoin	0	nan	nan
+Sorafenib	vitamin_A_palmitate	0	nan	nan
+Sorafenib	acetylcholine_chloride	0	nan	nan
+Sorafenib	dibutyl_phthalate	0	nan	nan
+Sorafenib	trometamol	0	nan	nan
+Sorafenib	benzoyl_peroxide	0	nan	nan
+Sorafenib	triethyl_citrate	0	nan	nan
+Sorafenib	triacetin	0	nan	nan
+Sorafenib	glycerol	1	0.497845199	72.2
+Sorafenib	propylene_glycol	0	nan	nan
+Sorafenib	mebendazole	0	nan	nan
+Sorafenib	L-proline	0	nan	nan
+Sorafenib	L-lysine	0	nan	nan
+Sorafenib	L-ascorbic_acid	0	nan	nan
+Sorafenib	stearic_acid	0	nan	nan
+Sorafenib	(R)-(+)-Limonene	0	nan	nan
+Sorafenib	meglumine	0	nan	nan
+Sorafenib	hydrochlorothiazide	0	nan	nan
+Sorafenib	ketoprofen	0	nan	nan
+Sorafenib	memantine_hydrochloride	0	nan	nan
+Sorafenib	naproxen_sodium	0	nan	nan
+Sorafenib	mannitol	0	nan	nan
+Sorafenib	D-sorbitol	0	nan	nan
+Sorafenib	tannic_acid	1	0.445095673	64.55
+Sorafenib	rhodamine_B	0	nan	nan
+Sorafenib	moxifloxacin	0	nan	nan
+Sorafenib	ciprofloxacin	0	nan	nan
+Sorafenib	certirizine	0	nan	nan
+Sorafenib	budesonide	0	nan	nan
+Sorafenib	etidronic_acid	0	nan	nan
+Sorafenib	emtricitabine	0	nan	nan
+Sorafenib	metoprolol(+)-tartrate	0	nan	nan
+Sorafenib	phenytoin	0	nan	nan
+Sorafenib	propranolol_hydrochloride	0	nan	nan
+Sorafenib	captan	0	nan	nan
+Sorafenib	neotame	0	nan	nan
+Sorafenib	alendronate_sodium	0	nan	nan
+Sorafenib	piroxicam	0	nan	nan
+Sorafenib	desipramine_hydrochloride	0	nan	nan
+Sorafenib	nadolol	0	nan	nan
+Sorafenib	omeprazole	0	nan	nan
+Sorafenib	labetalol_hydrochloride	0	nan	nan
+Sorafenib	prednisone	0	nan	nan
+Sorafenib	risperidone	0	nan	nan
+Sorafenib	fluconazole	0	nan	nan
+Sorafenib	methotrexate_hydrate	0	nan	nan
+Sorafenib	tenofovir_alafenamide	0	nan	nan
+Sorafenib	carbamazepine	0	nan	nan
+Lumefantrine	caffeine	0	nan	nan
+Lumefantrine	succinic_acid	0	nan	nan
+Lumefantrine	octyl_gallate	0	nan	nan
+Lumefantrine	DL-malic_acid	0	nan	nan
+Lumefantrine	adipic_acid	0	nan	nan
+Lumefantrine	Triazabicyclodecene	0	nan	nan
+Lumefantrine	DBU	0	nan	nan
+Lumefantrine	L-asparagine	0	nan	nan
+Lumefantrine	theobromine	0	nan	nan
+Lumefantrine	3,3'-thiodipropionic_acid	0	nan	nan
+Lumefantrine	theophylline	0	nan	nan
+Lumefantrine	borneol	0	nan	nan
+Lumefantrine	cinnamaldehyde	0	nan	nan
+Lumefantrine	aspartame	0	nan	nan
+Lumefantrine	squalene	0	nan	nan
+Lumefantrine	benzaldehyde	0	nan	nan
+Lumefantrine	sodium_deoxycholate	1	0.336430834	79.65
+Lumefantrine	cholic_acid	0	nan	nan
+Lumefantrine	glycocholic_acid	1	0.340654699	80.65
+Lumefantrine	sucrose_octaacetate	0	nan	nan
+Lumefantrine	trans_anethole	1	0.392608237	92.95
+Lumefantrine	indomethacin	1	0.466737064	110.5
+Lumefantrine	terpinyl_butyrate	0	nan	nan
+Lumefantrine	hydrocortisone	0	nan	nan
+Lumefantrine	candesartan_cilexetil	1	0.194297783	46
+Lumefantrine	neohesperidin_DC	0	nan	nan
+Lumefantrine	ursodiol	0	nan	nan
+Lumefantrine	diclofenac	0	nan	nan
+Lumefantrine	eucalyptol	0	nan	nan
+Lumefantrine	beta_carotene	0	nan	nan
+Lumefantrine	menthol	0	nan	nan
+Lumefantrine	alpha-terpineol	0	nan	nan
+Lumefantrine	fenchyl_alcohol	0	nan	nan
+Lumefantrine	biotin	0	nan	nan
+Lumefantrine	xylitol	0	nan	nan
+Lumefantrine	trans-cinnamic_acid	0	nan	nan
+Lumefantrine	thimerosal	0	nan	nan
+Lumefantrine	tyramine	0	nan	nan
+Lumefantrine	fumaric_acid	0	nan	nan
+Lumefantrine	congo_red	1	0.149947202	35.5
+Lumefantrine	vanillin	0	nan	nan
+Lumefantrine	saccharin	0	nan	nan
+Lumefantrine	allantoin	0	nan	nan
+Lumefantrine	vitamin_A_palmitate	1	0.479408659	113.5
+Lumefantrine	acetylcholine_chloride	0	nan	nan
+Lumefantrine	dibutyl_phthalate	0	nan	nan
+Lumefantrine	trometamol	0	nan	nan
+Lumefantrine	benzoyl_peroxide	0	nan	nan
+Lumefantrine	triethyl_citrate	0	nan	nan
+Lumefantrine	triacetin	0	nan	nan
+Lumefantrine	glycerol	0	nan	nan
+Lumefantrine	propylene_glycol	0	nan	nan
+Lumefantrine	mebendazole	0	nan	nan
+Lumefantrine	L-proline	0	nan	nan
+Lumefantrine	L-lysine	0	nan	nan
+Lumefantrine	L-ascorbic_acid	0	nan	nan
+Lumefantrine	stearic_acid	0	nan	nan
+Lumefantrine	(R)-(+)-Limonene	0	nan	nan
+Lumefantrine	meglumine	0	nan	nan
+Lumefantrine	hydrochlorothiazide	0	nan	nan
+Lumefantrine	ketoprofen	0	nan	nan
+Lumefantrine	memantine_hydrochloride	0	nan	nan
+Lumefantrine	naproxen_sodium	0	nan	nan
+Lumefantrine	mannitol	0	nan	nan
+Lumefantrine	D-sorbitol	0	nan	nan
+Lumefantrine	tannic_acid	0	nan	nan
+Lumefantrine	rhodamine_B	0	nan	nan
+Lumefantrine	moxifloxacin	0	nan	nan
+Lumefantrine	ciprofloxacin	0	nan	nan
+Lumefantrine	certirizine	0	nan	nan
+Lumefantrine	budesonide	0	nan	nan
+Lumefantrine	etidronic_acid	0	nan	nan
+Lumefantrine	emtricitabine	0	nan	nan
+Lumefantrine	metoprolol(+)-tartrate	0	nan	nan
+Lumefantrine	phenytoin	0	nan	nan
+Lumefantrine	propranolol_hydrochloride	0	nan	nan
+Lumefantrine	captan	0	nan	nan
+Lumefantrine	neotame	0	nan	nan
+Lumefantrine	alendronate_sodium	0	nan	nan
+Lumefantrine	piroxicam	0	nan	nan
+Lumefantrine	desipramine_hydrochloride	0	nan	nan
+Lumefantrine	nadolol	0	nan	nan
+Lumefantrine	omeprazole	0	nan	nan
+Lumefantrine	labetalol_hydrochloride	0	nan	nan
+Lumefantrine	prednisone	0	nan	nan
+Lumefantrine	risperidone	0	nan	nan
+Lumefantrine	fluconazole	0	nan	nan
+Lumefantrine	methotrexate_hydrate	0	nan	nan
+Lumefantrine	tenofovir_alafenamide	0	nan	nan
+Lumefantrine	carbamazepine	0	nan	nan
+Atovaquone	caffeine	0	nan	nan
+Atovaquone	succinic_acid	0	nan	nan
+Atovaquone	octyl_gallate	1	0.095144172	50.65
+Atovaquone	DL-malic_acid	0	nan	nan
+Atovaquone	adipic_acid	0	nan	nan
+Atovaquone	Triazabicyclodecene	0	nan	nan
+Atovaquone	DBU	0	nan	nan
+Atovaquone	L-asparagine	0	nan	nan
+Atovaquone	theobromine	0	nan	nan
+Atovaquone	3,3'-thiodipropionic_acid	0	nan	nan
+Atovaquone	theophylline	0	nan	nan
+Atovaquone	borneol	0	nan	nan
+Atovaquone	cinnamaldehyde	0	nan	nan
+Atovaquone	aspartame	0	nan	nan
+Atovaquone	squalene	0	nan	nan
+Atovaquone	benzaldehyde	0	nan	nan
+Atovaquone	sodium_deoxycholate	0	nan	nan
+Atovaquone	cholic_acid	0	nan	nan
+Atovaquone	glycocholic_acid	0	nan	nan
+Atovaquone	sucrose_octaacetate	1	0.108575186	57.8
+Atovaquone	trans_anethole	0	nan	nan
+Atovaquone	indomethacin	0	nan	nan
+Atovaquone	terpinyl_butyrate	1	0.245609092	130.75
+Atovaquone	hydrocortisone	0	nan	nan
+Atovaquone	candesartan_cilexetil	0	nan	nan
+Atovaquone	neohesperidin_DC	0	nan	nan
+Atovaquone	ursodiol	0	nan	nan
+Atovaquone	diclofenac	0	nan	nan
+Atovaquone	eucalyptol	0	nan	nan
+Atovaquone	beta_carotene	0	nan	nan
+Atovaquone	menthol	0	nan	nan
+Atovaquone	alpha-terpineol	0	nan	nan
+Atovaquone	fenchyl_alcohol	0	nan	nan
+Atovaquone	biotin	0	nan	nan
+Atovaquone	xylitol	0	nan	nan
+Atovaquone	trans-cinnamic_acid	0	nan	nan
+Atovaquone	thimerosal	0	nan	nan
+Atovaquone	tyramine	0	nan	nan
+Atovaquone	fumaric_acid	0	nan	nan
+Atovaquone	congo_red	1	0.203437588	108.3
+Atovaquone	vanillin	0	nan	nan
+Atovaquone	saccharin	0	nan	nan
+Atovaquone	allantoin	0	nan	nan
+Atovaquone	vitamin_A_palmitate	1	0.204564666	108.9
+Atovaquone	acetylcholine_chloride	0	nan	nan
+Atovaquone	dibutyl_phthalate	1	0.133464826	71.05
+Atovaquone	trometamol	0	nan	nan
+Atovaquone	benzoyl_peroxide	1	0.117122194	62.35
+Atovaquone	triethyl_citrate	0	nan	nan
+Atovaquone	triacetin	0	nan	nan
+Atovaquone	glycerol	0	nan	nan
+Atovaquone	propylene_glycol	0	nan	nan
+Atovaquone	mebendazole	0	nan	nan
+Atovaquone	L-proline	0	nan	nan
+Atovaquone	L-lysine	0	nan	nan
+Atovaquone	L-ascorbic_acid	0	nan	nan
+Atovaquone	stearic_acid	0	nan	nan
+Atovaquone	(R)-(+)-Limonene	0	nan	nan
+Atovaquone	meglumine	0	nan	nan
+Atovaquone	hydrochlorothiazide	0	nan	nan
+Atovaquone	ketoprofen	0	nan	nan
+Atovaquone	memantine_hydrochloride	0	nan	nan
+Atovaquone	naproxen_sodium	0	nan	nan
+Atovaquone	mannitol	0	nan	nan
+Atovaquone	D-sorbitol	0	nan	nan
+Atovaquone	tannic_acid	0	nan	nan
+Atovaquone	rhodamine_B	0	nan	nan
+Atovaquone	moxifloxacin	0	nan	nan
+Atovaquone	ciprofloxacin	0	nan	nan
+Atovaquone	certirizine	0	nan	nan
+Atovaquone	budesonide	1	0.235559313	125.4
+Atovaquone	etidronic_acid	0	nan	nan
+Atovaquone	emtricitabine	0	nan	nan
+Atovaquone	metoprolol(+)-tartrate	0	nan	nan
+Atovaquone	phenytoin	0	nan	nan
+Atovaquone	propranolol_hydrochloride	1	0.20616136	109.75
+Atovaquone	captan	0	nan	nan
+Atovaquone	neotame	0	nan	nan
+Atovaquone	alendronate_sodium	0	nan	nan
+Atovaquone	piroxicam	0	nan	nan
+Atovaquone	desipramine_hydrochloride	1	0.186437494	99.25
+Atovaquone	nadolol	0	nan	nan
+Atovaquone	omeprazole	0	nan	nan
+Atovaquone	labetalol_hydrochloride	0	nan	nan
+Atovaquone	prednisone	0	nan	nan
+Atovaquone	risperidone	1	0.199868508	106.4
+Atovaquone	fluconazole	0	nan	nan
+Atovaquone	methotrexate_hydrate	0	nan	nan
+Atovaquone	tenofovir_alafenamide	0	nan	nan
+Atovaquone	carbamazepine	0	nan	nan
+Nelfinavir	caffeine	0	nan	nan
+Nelfinavir	succinic_acid	0	nan	nan
+Nelfinavir	octyl_gallate	0	nan	nan
+Nelfinavir	DL-malic_acid	0	nan	nan
+Nelfinavir	adipic_acid	0	nan	nan
+Nelfinavir	Triazabicyclodecene	0	nan	nan
+Nelfinavir	DBU	0	nan	nan
+Nelfinavir	L-asparagine	0	nan	nan
+Nelfinavir	theobromine	0	nan	nan
+Nelfinavir	3,3'-thiodipropionic_acid	0	nan	nan
+Nelfinavir	theophylline	0	nan	nan
+Nelfinavir	borneol	0	nan	nan
+Nelfinavir	cinnamaldehyde	0	nan	nan
+Nelfinavir	aspartame	0	nan	nan
+Nelfinavir	squalene	0	nan	nan
+Nelfinavir	benzaldehyde	0	nan	nan
+Nelfinavir	sodium_deoxycholate	0	nan	nan
+Nelfinavir	cholic_acid	0	nan	nan
+Nelfinavir	glycocholic_acid	0	nan	nan
+Nelfinavir	sucrose_octaacetate	0	nan	nan
+Nelfinavir	trans_anethole	0	nan	nan
+Nelfinavir	indomethacin	0	nan	nan
+Nelfinavir	terpinyl_butyrate	0	nan	nan
+Nelfinavir	hydrocortisone	0	nan	nan
+Nelfinavir	candesartan_cilexetil	1	0.041376347	67.4
+Nelfinavir	neohesperidin_DC	0	nan	nan
+Nelfinavir	ursodiol	0	nan	nan
+Nelfinavir	diclofenac	0	nan	nan
+Nelfinavir	eucalyptol	0	nan	nan
+Nelfinavir	beta_carotene	0	nan	nan
+Nelfinavir	menthol	0	nan	nan
+Nelfinavir	alpha-terpineol	0	nan	nan
+Nelfinavir	fenchyl_alcohol	0	nan	nan
+Nelfinavir	biotin	0	nan	nan
+Nelfinavir	xylitol	0	nan	nan
+Nelfinavir	trans-cinnamic_acid	0	nan	nan
+Nelfinavir	thimerosal	0	nan	nan
+Nelfinavir	tyramine	0	nan	nan
+Nelfinavir	fumaric_acid	0	nan	nan
+Nelfinavir	congo_red	1	0.027870714	45.4
+Nelfinavir	vanillin	0	nan	nan
+Nelfinavir	saccharin	0	nan	nan
+Nelfinavir	allantoin	0	nan	nan
+Nelfinavir	vitamin_A_palmitate	0	nan	nan
+Nelfinavir	acetylcholine_chloride	0	nan	nan
+Nelfinavir	dibutyl_phthalate	0	nan	nan
+Nelfinavir	trometamol	0	nan	nan
+Nelfinavir	benzoyl_peroxide	0	nan	nan
+Nelfinavir	triethyl_citrate	0	nan	nan
+Nelfinavir	triacetin	1	0.204364775	332.9
+Nelfinavir	glycerol	0	nan	nan
+Nelfinavir	propylene_glycol	0	nan	nan
+Nelfinavir	mebendazole	0	nan	nan
+Nelfinavir	L-proline	1	0.121765555	198.35
+Nelfinavir	L-lysine	1	0.182510206	297.3
+Nelfinavir	L-ascorbic_acid	0	nan	nan
+Nelfinavir	stearic_acid	0	nan	nan
+Nelfinavir	(R)-(+)-Limonene	0	nan	nan
+Nelfinavir	meglumine	0	nan	nan
+Nelfinavir	hydrochlorothiazide	1	0.083520059	136.05
+Nelfinavir	ketoprofen	0	nan	nan
+Nelfinavir	memantine_hydrochloride	1	0.425887842	693.75
+Nelfinavir	naproxen_sodium	1	0.016360232	26.65
+Nelfinavir	mannitol	0	nan	nan
+Nelfinavir	D-sorbitol	0	nan	nan
+Nelfinavir	tannic_acid	0	nan	nan
+Nelfinavir	rhodamine_B	0	nan	nan
+Nelfinavir	moxifloxacin	0	nan	nan
+Nelfinavir	ciprofloxacin	0	nan	nan
+Nelfinavir	certirizine	0	nan	nan
+Nelfinavir	budesonide	0	nan	nan
+Nelfinavir	etidronic_acid	0	nan	nan
+Nelfinavir	emtricitabine	0	nan	nan
+Nelfinavir	metoprolol(+)-tartrate	1	0.144479573	235.35
+Nelfinavir	phenytoin	0	nan	nan
+Nelfinavir	propranolol_hydrochloride	0	nan	nan
+Nelfinavir	captan	1	0.072439301	118
+Nelfinavir	neotame	1	0.055833512	90.95
+Nelfinavir	alendronate_sodium	1	0.125019184	203.65
+Nelfinavir	piroxicam	1	0.104238927	169.8
+Nelfinavir	desipramine_hydrochloride	1	0.022898186	37.3
+Nelfinavir	nadolol	0	nan	nan
+Nelfinavir	omeprazole	0	nan	nan
+Nelfinavir	labetalol_hydrochloride	1	0.22852144	372.25
+Nelfinavir	prednisone	1	0.070597624	115
+Nelfinavir	risperidone	1	0.452438688	737
+Nelfinavir	fluconazole	1	0.107983671	175.9
+Nelfinavir	methotrexate_hydrate	1	0.118696093	193.35
+Nelfinavir	tenofovir_alafenamide	1	0.013260076	21.6
+Nelfinavir	carbamazepine	1	0.043985389	71.65
+Gefitinib	caffeine	0	nan	nan
+Gefitinib	succinic_acid	0	nan	nan
+Gefitinib	octyl_gallate	0	nan	nan
+Gefitinib	DL-malic_acid	0	nan	nan
+Gefitinib	adipic_acid	0	nan	nan
+Gefitinib	Triazabicyclodecene	0	nan	nan
+Gefitinib	DBU	0	nan	nan
+Gefitinib	L-asparagine	0	nan	nan
+Gefitinib	theobromine	0	nan	nan
+Gefitinib	3,3'-thiodipropionic_acid	0	nan	nan
+Gefitinib	theophylline	0	nan	nan
+Gefitinib	borneol	0	nan	nan
+Gefitinib	cinnamaldehyde	0	nan	nan
+Gefitinib	aspartame	0	nan	nan
+Gefitinib	squalene	0	nan	nan
+Gefitinib	benzaldehyde	0	nan	nan
+Gefitinib	sodium_deoxycholate	0	nan	nan
+Gefitinib	cholic_acid	0	nan	nan
+Gefitinib	glycocholic_acid	0	nan	nan
+Gefitinib	sucrose_octaacetate	0	nan	nan
+Gefitinib	trans_anethole	0	nan	nan
+Gefitinib	indomethacin	0	nan	nan
+Gefitinib	terpinyl_butyrate	0	nan	nan
+Gefitinib	hydrocortisone	0	nan	nan
+Gefitinib	candesartan_cilexetil	0	nan	nan
+Gefitinib	neohesperidin_DC	0	nan	nan
+Gefitinib	ursodiol	0	nan	nan
+Gefitinib	diclofenac	0	nan	nan
+Gefitinib	eucalyptol	0	nan	nan
+Gefitinib	beta_carotene	0	nan	nan
+Gefitinib	menthol	0	nan	nan
+Gefitinib	alpha-terpineol	0	nan	nan
+Gefitinib	fenchyl_alcohol	0	nan	nan
+Gefitinib	biotin	0	nan	nan
+Gefitinib	xylitol	0	nan	nan
+Gefitinib	trans-cinnamic_acid	0	nan	nan
+Gefitinib	thimerosal	0	nan	nan
+Gefitinib	tyramine	0	nan	nan
+Gefitinib	fumaric_acid	0	nan	nan
+Gefitinib	congo_red	0	nan	nan
+Gefitinib	vanillin	0	nan	nan
+Gefitinib	saccharin	0	nan	nan
+Gefitinib	allantoin	0	nan	nan
+Gefitinib	vitamin_A_palmitate	0	nan	nan
+Gefitinib	acetylcholine_chloride	0	nan	nan
+Gefitinib	dibutyl_phthalate	0	nan	nan
+Gefitinib	trometamol	0	nan	nan
+Gefitinib	benzoyl_peroxide	0	nan	nan
+Gefitinib	triethyl_citrate	0	nan	nan
+Gefitinib	triacetin	0	nan	nan
+Gefitinib	glycerol	0	nan	nan
+Gefitinib	propylene_glycol	0	nan	nan
+Gefitinib	mebendazole	0	nan	nan
+Gefitinib	L-proline	0	nan	nan
+Gefitinib	L-lysine	0	nan	nan
+Gefitinib	L-ascorbic_acid	0	nan	nan
+Gefitinib	stearic_acid	0	nan	nan
+Gefitinib	(R)-(+)-Limonene	0	nan	nan
+Gefitinib	meglumine	0	nan	nan
+Gefitinib	hydrochlorothiazide	0	nan	nan
+Gefitinib	ketoprofen	0	nan	nan
+Gefitinib	memantine_hydrochloride	0	nan	nan
+Gefitinib	naproxen_sodium	0	nan	nan
+Gefitinib	mannitol	0	nan	nan
+Gefitinib	D-sorbitol	0	nan	nan
+Gefitinib	tannic_acid	0	nan	nan
+Gefitinib	rhodamine_B	0	nan	nan
+Gefitinib	moxifloxacin	0	nan	nan
+Gefitinib	ciprofloxacin	0	nan	nan
+Gefitinib	certirizine	0	nan	nan
+Gefitinib	budesonide	0	nan	nan
+Gefitinib	etidronic_acid	0	nan	nan
+Gefitinib	emtricitabine	0	nan	nan
+Gefitinib	metoprolol(+)-tartrate	0	nan	nan
+Gefitinib	phenytoin	0	nan	nan
+Gefitinib	propranolol_hydrochloride	0	nan	nan
+Gefitinib	captan	0	nan	nan
+Gefitinib	neotame	0	nan	nan
+Gefitinib	alendronate_sodium	0	nan	nan
+Gefitinib	piroxicam	0	nan	nan
+Gefitinib	desipramine_hydrochloride	0	nan	nan
+Gefitinib	nadolol	0	nan	nan
+Gefitinib	omeprazole	0	nan	nan
+Gefitinib	labetalol_hydrochloride	0	nan	nan
+Gefitinib	prednisone	0	nan	nan
+Gefitinib	risperidone	0	nan	nan
+Gefitinib	fluconazole	0	nan	nan
+Gefitinib	methotrexate_hydrate	0	nan	nan
+Gefitinib	tenofovir_alafenamide	0	nan	nan
+Gefitinib	carbamazepine	0	nan	nan
+Fulvestrant	caffeine	0	nan	nan
+Fulvestrant	succinic_acid	0	nan	nan
+Fulvestrant	octyl_gallate	1	0.362985502	101.4
+Fulvestrant	DL-malic_acid	0	nan	nan
+Fulvestrant	adipic_acid	0	nan	nan
+Fulvestrant	Triazabicyclodecene	0	nan	nan
+Fulvestrant	DBU	0	nan	nan
+Fulvestrant	L-asparagine	0	nan	nan
+Fulvestrant	theobromine	0	nan	nan
+Fulvestrant	3,3'-thiodipropionic_acid	1	0.119563272	33.4
+Fulvestrant	theophylline	0	nan	nan
+Fulvestrant	borneol	0	nan	nan
+Fulvestrant	cinnamaldehyde	0	nan	nan
+Fulvestrant	aspartame	0	nan	nan
+Fulvestrant	squalene	0	nan	nan
+Fulvestrant	benzaldehyde	0	nan	nan
+Fulvestrant	sodium_deoxycholate	1	0.23465187	65.55
+Fulvestrant	cholic_acid	1	0.473599427	132.3
+Fulvestrant	glycocholic_acid	1	0.345265796	96.45
+Fulvestrant	sucrose_octaacetate	0	nan	nan
+Fulvestrant	trans_anethole	1	0.280293539	78.3
+Fulvestrant	indomethacin	0	nan	nan
+Fulvestrant	terpinyl_butyrate	0	nan	nan
+Fulvestrant	hydrocortisone	0	nan	nan
+Fulvestrant	candesartan_cilexetil	1	0.194200823	54.25
+Fulvestrant	neohesperidin_DC	0	nan	nan
+Fulvestrant	ursodiol	0	nan	nan
+Fulvestrant	diclofenac	0	nan	nan
+Fulvestrant	eucalyptol	0	nan	nan
+Fulvestrant	beta_carotene	1	0.423125112	118.2
+Fulvestrant	menthol	0	nan	nan
+Fulvestrant	alpha-terpineol	0	nan	nan
+Fulvestrant	fenchyl_alcohol	0	nan	nan
+Fulvestrant	biotin	0	nan	nan
+Fulvestrant	xylitol	0	nan	nan
+Fulvestrant	trans-cinnamic_acid	0	nan	nan
+Fulvestrant	thimerosal	0	nan	nan
+Fulvestrant	tyramine	0	nan	nan
+Fulvestrant	fumaric_acid	0	nan	nan
+Fulvestrant	congo_red	1	0.227850367	63.65
+Fulvestrant	vanillin	0	nan	nan
+Fulvestrant	saccharin	0	nan	nan
+Fulvestrant	allantoin	0	nan	nan
+Fulvestrant	vitamin_A_palmitate	1	0.373724718	104.4
+Fulvestrant	acetylcholine_chloride	0	nan	nan
+Fulvestrant	dibutyl_phthalate	0	nan	nan
+Fulvestrant	trometamol	0	nan	nan
+Fulvestrant	benzoyl_peroxide	0	nan	nan
+Fulvestrant	triethyl_citrate	0	nan	nan
+Fulvestrant	triacetin	0	nan	nan
+Fulvestrant	glycerol	0	nan	nan
+Fulvestrant	propylene_glycol	0	nan	nan
+Fulvestrant	mebendazole	0	nan	nan
+Fulvestrant	L-proline	0	nan	nan
+Fulvestrant	L-lysine	0	nan	nan
+Fulvestrant	L-ascorbic_acid	0	nan	nan
+Fulvestrant	stearic_acid	0	nan	nan
+Fulvestrant	(R)-(+)-Limonene	0	nan	nan
+Fulvestrant	meglumine	0	nan	nan
+Fulvestrant	hydrochlorothiazide	0	nan	nan
+Fulvestrant	ketoprofen	0	nan	nan
+Fulvestrant	memantine_hydrochloride	0	nan	nan
+Fulvestrant	naproxen_sodium	0	nan	nan
+Fulvestrant	mannitol	0	nan	nan
+Fulvestrant	D-sorbitol	0	nan	nan
+Fulvestrant	tannic_acid	1	0.424557007	118.6
+Fulvestrant	rhodamine_B	0	nan	nan
+Fulvestrant	moxifloxacin	0	nan	nan
+Fulvestrant	ciprofloxacin	0	nan	nan
+Fulvestrant	certirizine	0	nan	nan
+Fulvestrant	budesonide	0	nan	nan
+Fulvestrant	etidronic_acid	0	nan	nan
+Fulvestrant	emtricitabine	0	nan	nan
+Fulvestrant	metoprolol(+)-tartrate	0	nan	nan
+Fulvestrant	phenytoin	0	nan	nan
+Fulvestrant	propranolol_hydrochloride	0	nan	nan
+Fulvestrant	captan	0	nan	nan
+Fulvestrant	neotame	0	nan	nan
+Fulvestrant	alendronate_sodium	0	nan	nan
+Fulvestrant	piroxicam	0	nan	nan
+Fulvestrant	desipramine_hydrochloride	0	nan	nan
+Fulvestrant	nadolol	0	nan	nan
+Fulvestrant	omeprazole	0	nan	nan
+Fulvestrant	labetalol_hydrochloride	0	nan	nan
+Fulvestrant	prednisone	0	nan	nan
+Fulvestrant	risperidone	0	nan	nan
+Fulvestrant	fluconazole	0	nan	nan
+Fulvestrant	methotrexate_hydrate	0	nan	nan
+Fulvestrant	tenofovir_alafenamide	0	nan	nan
+Fulvestrant	carbamazepine	0	nan	nan
+Rapamycin	caffeine	0	nan	nan
+Rapamycin	succinic_acid	0	nan	nan
+Rapamycin	octyl_gallate	0	nan	nan
+Rapamycin	DL-malic_acid	0	nan	nan
+Rapamycin	adipic_acid	0	nan	nan
+Rapamycin	Triazabicyclodecene	0	nan	nan
+Rapamycin	DBU	0	nan	nan
+Rapamycin	L-asparagine	0	nan	nan
+Rapamycin	theobromine	0	nan	nan
+Rapamycin	3,3'-thiodipropionic_acid	0	nan	nan
+Rapamycin	theophylline	0	nan	nan
+Rapamycin	borneol	0	nan	nan
+Rapamycin	cinnamaldehyde	0	nan	nan
+Rapamycin	aspartame	0	nan	nan
+Rapamycin	squalene	0	nan	nan
+Rapamycin	benzaldehyde	0	nan	nan
+Rapamycin	sodium_deoxycholate	0	nan	nan
+Rapamycin	cholic_acid	0	nan	nan
+Rapamycin	glycocholic_acid	0	nan	nan
+Rapamycin	sucrose_octaacetate	0	nan	nan
+Rapamycin	trans_anethole	0	nan	nan
+Rapamycin	indomethacin	0	nan	nan
+Rapamycin	terpinyl_butyrate	0	nan	nan
+Rapamycin	hydrocortisone	0	nan	nan
+Rapamycin	candesartan_cilexetil	1	0.12380232	49.1
+Rapamycin	neohesperidin_DC	0	nan	nan
+Rapamycin	ursodiol	0	nan	nan
+Rapamycin	diclofenac	0	nan	nan
+Rapamycin	eucalyptol	0	nan	nan
+Rapamycin	beta_carotene	0	nan	nan
+Rapamycin	menthol	0	nan	nan
+Rapamycin	alpha-terpineol	0	nan	nan
+Rapamycin	fenchyl_alcohol	0	nan	nan
+Rapamycin	biotin	0	nan	nan
+Rapamycin	xylitol	0	nan	nan
+Rapamycin	trans-cinnamic_acid	0	nan	nan
+Rapamycin	thimerosal	0	nan	nan
+Rapamycin	tyramine	0	nan	nan
+Rapamycin	fumaric_acid	0	nan	nan
+Rapamycin	congo_red	1	0.077155825	30.6
+Rapamycin	vanillin	0	nan	nan
+Rapamycin	saccharin	0	nan	nan
+Rapamycin	allantoin	0	nan	nan
+Rapamycin	vitamin_A_palmitate	1	0.28920827	114.7
+Rapamycin	acetylcholine_chloride	0	nan	nan
+Rapamycin	dibutyl_phthalate	0	nan	nan
+Rapamycin	trometamol	0	nan	nan
+Rapamycin	benzoyl_peroxide	0	nan	nan
+Rapamycin	triethyl_citrate	0	nan	nan
+Rapamycin	triacetin	0	nan	nan
+Rapamycin	glycerol	0	nan	nan
+Rapamycin	propylene_glycol	0	nan	nan
+Rapamycin	mebendazole	0	nan	nan
+Rapamycin	L-proline	0	nan	nan
+Rapamycin	L-lysine	0	nan	nan
+Rapamycin	L-ascorbic_acid	0	nan	nan
+Rapamycin	stearic_acid	0	nan	nan
+Rapamycin	(R)-(+)-Limonene	0	nan	nan
+Rapamycin	meglumine	0	nan	nan
+Rapamycin	hydrochlorothiazide	0	nan	nan
+Rapamycin	ketoprofen	0	nan	nan
+Rapamycin	memantine_hydrochloride	0	nan	nan
+Rapamycin	naproxen_sodium	0	nan	nan
+Rapamycin	mannitol	0	nan	nan
+Rapamycin	D-sorbitol	0	nan	nan
+Rapamycin	tannic_acid	0	nan	nan
+Rapamycin	rhodamine_B	0	nan	nan
+Rapamycin	moxifloxacin	0	nan	nan
+Rapamycin	ciprofloxacin	0	nan	nan
+Rapamycin	certirizine	0	nan	nan
+Rapamycin	budesonide	0	nan	nan
+Rapamycin	etidronic_acid	0	nan	nan
+Rapamycin	emtricitabine	0	nan	nan
+Rapamycin	metoprolol(+)-tartrate	0	nan	nan
+Rapamycin	phenytoin	0	nan	nan
+Rapamycin	propranolol_hydrochloride	0	nan	nan
+Rapamycin	captan	0	nan	nan
+Rapamycin	neotame	0	nan	nan
+Rapamycin	alendronate_sodium	0	nan	nan
+Rapamycin	piroxicam	0	nan	nan
+Rapamycin	desipramine_hydrochloride	0	nan	nan
+Rapamycin	nadolol	0	nan	nan
+Rapamycin	omeprazole	0	nan	nan
+Rapamycin	labetalol_hydrochloride	0	nan	nan
+Rapamycin	prednisone	0	nan	nan
+Rapamycin	risperidone	0	nan	nan
+Rapamycin	fluconazole	0	nan	nan
+Rapamycin	methotrexate_hydrate	0	nan	nan
+Rapamycin	tenofovir_alafenamide	0	nan	nan
+Rapamycin	carbamazepine	0	nan	nan
+Rilpivirine	caffeine	0	nan	nan
+Rilpivirine	succinic_acid	0	nan	nan
+Rilpivirine	octyl_gallate	0	nan	nan
+Rilpivirine	DL-malic_acid	0	nan	nan
+Rilpivirine	adipic_acid	0	nan	nan
+Rilpivirine	Triazabicyclodecene	0	nan	nan
+Rilpivirine	DBU	0	nan	nan
+Rilpivirine	L-asparagine	0	nan	nan
+Rilpivirine	theobromine	0	nan	nan
+Rilpivirine	3,3'-thiodipropionic_acid	0	nan	nan
+Rilpivirine	theophylline	0	nan	nan
+Rilpivirine	borneol	0	nan	nan
+Rilpivirine	cinnamaldehyde	0	nan	nan
+Rilpivirine	aspartame	0	nan	nan
+Rilpivirine	squalene	0	nan	nan
+Rilpivirine	benzaldehyde	0	nan	nan
+Rilpivirine	sodium_deoxycholate	1	0.229058857	100.7
+Rilpivirine	cholic_acid	0	nan	nan
+Rilpivirine	glycocholic_acid	0	nan	nan
+Rilpivirine	sucrose_octaacetate	0	nan	nan
+Rilpivirine	trans_anethole	0	nan	nan
+Rilpivirine	indomethacin	0	nan	nan
+Rilpivirine	terpinyl_butyrate	0	nan	nan
+Rilpivirine	hydrocortisone	0	nan	nan
+Rilpivirine	candesartan_cilexetil	1	0.119874893	52.7
+Rilpivirine	neohesperidin_DC	0	nan	nan
+Rilpivirine	ursodiol	0	nan	nan
+Rilpivirine	diclofenac	0	nan	nan
+Rilpivirine	eucalyptol	0	nan	nan
+Rilpivirine	beta_carotene	0	nan	nan
+Rilpivirine	menthol	0	nan	nan
+Rilpivirine	alpha-terpineol	0	nan	nan
+Rilpivirine	fenchyl_alcohol	0	nan	nan
+Rilpivirine	biotin	0	nan	nan
+Rilpivirine	xylitol	0	nan	nan
+Rilpivirine	trans-cinnamic_acid	0	nan	nan
+Rilpivirine	thimerosal	0	nan	nan
+Rilpivirine	tyramine	0	nan	nan
+Rilpivirine	fumaric_acid	0	nan	nan
+Rilpivirine	congo_red	1	0.078589707	34.55
+Rilpivirine	vanillin	0	nan	nan
+Rilpivirine	saccharin	0	nan	nan
+Rilpivirine	allantoin	0	nan	nan
+Rilpivirine	vitamin_A_palmitate	1	0.188456071	82.85
+Rilpivirine	acetylcholine_chloride	0	nan	nan
+Rilpivirine	dibutyl_phthalate	0	nan	nan
+Rilpivirine	trometamol	0	nan	nan
+Rilpivirine	benzoyl_peroxide	0	nan	nan
+Rilpivirine	triethyl_citrate	0	nan	nan
+Rilpivirine	triacetin	0	nan	nan
+Rilpivirine	glycerol	0	nan	nan
+Rilpivirine	propylene_glycol	0	nan	nan
+Rilpivirine	mebendazole	0	nan	nan
+Rilpivirine	L-proline	0	nan	nan
+Rilpivirine	L-lysine	0	nan	nan
+Rilpivirine	L-ascorbic_acid	0	nan	nan
+Rilpivirine	stearic_acid	0	nan	nan
+Rilpivirine	(R)-(+)-Limonene	0	nan	nan
+Rilpivirine	meglumine	0	nan	nan
+Rilpivirine	hydrochlorothiazide	0	nan	nan
+Rilpivirine	ketoprofen	1	0.476542508	209.5
+Rilpivirine	memantine_hydrochloride	0	nan	nan
+Rilpivirine	naproxen_sodium	1	0.39135627	172.05
+Rilpivirine	mannitol	0	nan	nan
+Rilpivirine	D-sorbitol	0	nan	nan
+Rilpivirine	tannic_acid	0	nan	nan
+Rilpivirine	rhodamine_B	0	nan	nan
+Rilpivirine	moxifloxacin	0	nan	nan
+Rilpivirine	ciprofloxacin	0	nan	nan
+Rilpivirine	certirizine	0	nan	nan
+Rilpivirine	budesonide	0	nan	nan
+Rilpivirine	etidronic_acid	0	nan	nan
+Rilpivirine	emtricitabine	0	nan	nan
+Rilpivirine	metoprolol(+)-tartrate	0	nan	nan
+Rilpivirine	phenytoin	0	nan	nan
+Rilpivirine	propranolol_hydrochloride	0	nan	nan
+Rilpivirine	captan	0	nan	nan
+Rilpivirine	neotame	0	nan	nan
+Rilpivirine	alendronate_sodium	0	nan	nan
+Rilpivirine	piroxicam	0	nan	nan
+Rilpivirine	desipramine_hydrochloride	0	nan	nan
+Rilpivirine	nadolol	0	nan	nan
+Rilpivirine	omeprazole	0	nan	nan
+Rilpivirine	labetalol_hydrochloride	0	nan	nan
+Rilpivirine	prednisone	0	nan	nan
+Rilpivirine	risperidone	0	nan	nan
+Rilpivirine	fluconazole	0	nan	nan
+Rilpivirine	methotrexate_hydrate	0	nan	nan
+Rilpivirine	tenofovir_alafenamide	0	nan	nan
+Rilpivirine	carbamazepine	0	nan	nan
+Econazole	caffeine	0	nan	nan
+Econazole	succinic_acid	0	nan	nan
+Econazole	octyl_gallate	0	nan	nan
+Econazole	DL-malic_acid	0	nan	nan
+Econazole	adipic_acid	0	nan	nan
+Econazole	Triazabicyclodecene	0	nan	nan
+Econazole	DBU	0	nan	nan
+Econazole	L-asparagine	0	nan	nan
+Econazole	theobromine	0	nan	nan
+Econazole	3,3'-thiodipropionic_acid	0	nan	nan
+Econazole	theophylline	0	nan	nan
+Econazole	borneol	0	nan	nan
+Econazole	cinnamaldehyde	0	nan	nan
+Econazole	aspartame	0	nan	nan
+Econazole	squalene	0	nan	nan
+Econazole	benzaldehyde	0	nan	nan
+Econazole	sodium_deoxycholate	0	nan	nan
+Econazole	cholic_acid	0	nan	nan
+Econazole	glycocholic_acid	0	nan	nan
+Econazole	sucrose_octaacetate	0	nan	nan
+Econazole	trans_anethole	0	nan	nan
+Econazole	indomethacin	0	nan	nan
+Econazole	terpinyl_butyrate	0	nan	nan
+Econazole	hydrocortisone	0	nan	nan
+Econazole	candesartan_cilexetil	0	nan	nan
+Econazole	neohesperidin_DC	0	nan	nan
+Econazole	ursodiol	0	nan	nan
+Econazole	diclofenac	0	nan	nan
+Econazole	eucalyptol	0	nan	nan
+Econazole	beta_carotene	0	nan	nan
+Econazole	menthol	1	0.491077079	194
+Econazole	alpha-terpineol	0	nan	nan
+Econazole	fenchyl_alcohol	0	nan	nan
+Econazole	biotin	0	nan	nan
+Econazole	xylitol	0	nan	nan
+Econazole	trans-cinnamic_acid	0	nan	nan
+Econazole	thimerosal	0	nan	nan
+Econazole	tyramine	0	nan	nan
+Econazole	fumaric_acid	0	nan	nan
+Econazole	congo_red	1	0.21339071	84.3
+Econazole	vanillin	0	nan	nan
+Econazole	saccharin	0	nan	nan
+Econazole	allantoin	0	nan	nan
+Econazole	vitamin_A_palmitate	0	nan	nan
+Econazole	acetylcholine_chloride	0	nan	nan
+Econazole	dibutyl_phthalate	0	nan	nan
+Econazole	trometamol	0	nan	nan
+Econazole	benzoyl_peroxide	0	nan	nan
+Econazole	triethyl_citrate	0	nan	nan
+Econazole	triacetin	0	nan	nan
+Econazole	glycerol	0	nan	nan
+Econazole	propylene_glycol	0	nan	nan
+Econazole	mebendazole	1	0.37438299	147.9
+Econazole	L-proline	0	nan	nan
+Econazole	L-lysine	0	nan	nan
+Econazole	L-ascorbic_acid	0	nan	nan
+Econazole	stearic_acid	0	nan	nan
+Econazole	(R)-(+)-Limonene	0	nan	nan
+Econazole	meglumine	0	nan	nan
+Econazole	hydrochlorothiazide	0	nan	nan
+Econazole	ketoprofen	0	nan	nan
+Econazole	memantine_hydrochloride	0	nan	nan
+Econazole	naproxen_sodium	0	nan	nan
+Econazole	mannitol	0	nan	nan
+Econazole	D-sorbitol	0	nan	nan
+Econazole	tannic_acid	0	nan	nan
+Econazole	rhodamine_B	0	nan	nan
+Econazole	moxifloxacin	0	nan	nan
+Econazole	ciprofloxacin	0	nan	nan
+Econazole	certirizine	0	nan	nan
+Econazole	budesonide	1	0.479053284	189.25
+Econazole	etidronic_acid	0	nan	nan
+Econazole	emtricitabine	0	nan	nan
+Econazole	metoprolol(+)-tartrate	1	0.352613593	139.3
+Econazole	phenytoin	0	nan	nan
+Econazole	propranolol_hydrochloride	0	nan	nan
+Econazole	captan	0	nan	nan
+Econazole	neotame	1	0.287558537	113.6
+Econazole	alendronate_sodium	0	nan	nan
+Econazole	piroxicam	0	nan	nan
+Econazole	desipramine_hydrochloride	0	nan	nan
+Econazole	nadolol	0	nan	nan
+Econazole	omeprazole	1	0.498544488	196.95
+Econazole	labetalol_hydrochloride	0	nan	nan
+Econazole	prednisone	0	nan	nan
+Econazole	risperidone	0	nan	nan
+Econazole	fluconazole	0	nan	nan
+Econazole	methotrexate_hydrate	1	0.398430578	157.4
+Econazole	tenofovir_alafenamide	1	0.364004556	143.8
+Econazole	carbamazepine	0	nan	nan
+Chlorpromazine_Hcl	caffeine	0	nan	nan
+Chlorpromazine_Hcl	succinic_acid	0	nan	nan
+Chlorpromazine_Hcl	octyl_gallate	0	nan	nan
+Chlorpromazine_Hcl	DL-malic_acid	0	nan	nan
+Chlorpromazine_Hcl	adipic_acid	0	nan	nan
+Chlorpromazine_Hcl	Triazabicyclodecene	0	nan	nan
+Chlorpromazine_Hcl	DBU	0	nan	nan
+Chlorpromazine_Hcl	L-asparagine	0	nan	nan
+Chlorpromazine_Hcl	theobromine	0	nan	nan
+Chlorpromazine_Hcl	3,3'-thiodipropionic_acid	0	nan	nan
+Chlorpromazine_Hcl	theophylline	0	nan	nan
+Chlorpromazine_Hcl	borneol	0	nan	nan
+Chlorpromazine_Hcl	cinnamaldehyde	0	nan	nan
+Chlorpromazine_Hcl	aspartame	0	nan	nan
+Chlorpromazine_Hcl	squalene	0	nan	nan
+Chlorpromazine_Hcl	benzaldehyde	0	nan	nan
+Chlorpromazine_Hcl	sodium_deoxycholate	0	nan	nan
+Chlorpromazine_Hcl	cholic_acid	0	nan	nan
+Chlorpromazine_Hcl	glycocholic_acid	1	0.4518322	136.25
+Chlorpromazine_Hcl	sucrose_octaacetate	0	nan	nan
+Chlorpromazine_Hcl	trans_anethole	0	nan	nan
+Chlorpromazine_Hcl	indomethacin	0	nan	nan
+Chlorpromazine_Hcl	terpinyl_butyrate	1	0.336428453	101.45
+Chlorpromazine_Hcl	hydrocortisone	0	nan	nan
+Chlorpromazine_Hcl	candesartan_cilexetil	1	0.36395291	109.75
+Chlorpromazine_Hcl	neohesperidin_DC	0	nan	nan
+Chlorpromazine_Hcl	ursodiol	0	nan	nan
+Chlorpromazine_Hcl	diclofenac	0	nan	nan
+Chlorpromazine_Hcl	eucalyptol	0	nan	nan
+Chlorpromazine_Hcl	beta_carotene	0	nan	nan
+Chlorpromazine_Hcl	menthol	0	nan	nan
+Chlorpromazine_Hcl	alpha-terpineol	0	nan	nan
+Chlorpromazine_Hcl	fenchyl_alcohol	0	nan	nan
+Chlorpromazine_Hcl	biotin	0	nan	nan
+Chlorpromazine_Hcl	xylitol	0	nan	nan
+Chlorpromazine_Hcl	trans-cinnamic_acid	0	nan	nan
+Chlorpromazine_Hcl	thimerosal	0	nan	nan
+Chlorpromazine_Hcl	tyramine	0	nan	nan
+Chlorpromazine_Hcl	fumaric_acid	0	nan	nan
+Chlorpromazine_Hcl	congo_red	1	0.202951418	61.2
+Chlorpromazine_Hcl	vanillin	0	nan	nan
+Chlorpromazine_Hcl	saccharin	0	nan	nan
+Chlorpromazine_Hcl	allantoin	0	nan	nan
+Chlorpromazine_Hcl	vitamin_A_palmitate	0	nan	nan
+Chlorpromazine_Hcl	acetylcholine_chloride	0	nan	nan
+Chlorpromazine_Hcl	dibutyl_phthalate	0	nan	nan
+Chlorpromazine_Hcl	trometamol	0	nan	nan
+Chlorpromazine_Hcl	benzoyl_peroxide	0	nan	nan
+Chlorpromazine_Hcl	triethyl_citrate	0	nan	nan
+Chlorpromazine_Hcl	triacetin	0	nan	nan
+Chlorpromazine_Hcl	glycerol	0	nan	nan
+Chlorpromazine_Hcl	propylene_glycol	0	nan	nan
+Chlorpromazine_Hcl	mebendazole	0	nan	nan
+Chlorpromazine_Hcl	L-proline	0	nan	nan
+Chlorpromazine_Hcl	L-lysine	0	nan	nan
+Chlorpromazine_Hcl	L-ascorbic_acid	0	nan	nan
+Chlorpromazine_Hcl	stearic_acid	0	nan	nan
+Chlorpromazine_Hcl	(R)-(+)-Limonene	0	nan	nan
+Chlorpromazine_Hcl	meglumine	0	nan	nan
+Chlorpromazine_Hcl	hydrochlorothiazide	0	nan	nan
+Chlorpromazine_Hcl	ketoprofen	0	nan	nan
+Chlorpromazine_Hcl	memantine_hydrochloride	0	nan	nan
+Chlorpromazine_Hcl	naproxen_sodium	0	nan	nan
+Chlorpromazine_Hcl	mannitol	0	nan	nan
+Chlorpromazine_Hcl	D-sorbitol	0	nan	nan
+Chlorpromazine_Hcl	tannic_acid	1	0.469076438	141.45
+Chlorpromazine_Hcl	rhodamine_B	0	nan	nan
+Chlorpromazine_Hcl	moxifloxacin	0	nan	nan
+Chlorpromazine_Hcl	ciprofloxacin	0	nan	nan
+Chlorpromazine_Hcl	certirizine	0	nan	nan
+Chlorpromazine_Hcl	budesonide	0	nan	nan
+Chlorpromazine_Hcl	etidronic_acid	0	nan	nan
+Chlorpromazine_Hcl	emtricitabine	0	nan	nan
+Chlorpromazine_Hcl	metoprolol(+)-tartrate	0	nan	nan
+Chlorpromazine_Hcl	phenytoin	0	nan	nan
+Chlorpromazine_Hcl	propranolol_hydrochloride	0	nan	nan
+Chlorpromazine_Hcl	captan	0	nan	nan
+Chlorpromazine_Hcl	neotame	0	nan	nan
+Chlorpromazine_Hcl	alendronate_sodium	0	nan	nan
+Chlorpromazine_Hcl	piroxicam	0	nan	nan
+Chlorpromazine_Hcl	desipramine_hydrochloride	0	nan	nan
+Chlorpromazine_Hcl	nadolol	0	nan	nan
+Chlorpromazine_Hcl	omeprazole	0	nan	nan
+Chlorpromazine_Hcl	labetalol_hydrochloride	0	nan	nan
+Chlorpromazine_Hcl	prednisone	0	nan	nan
+Chlorpromazine_Hcl	risperidone	0	nan	nan
+Chlorpromazine_Hcl	fluconazole	0	nan	nan
+Chlorpromazine_Hcl	methotrexate_hydrate	0	nan	nan
+Chlorpromazine_Hcl	tenofovir_alafenamide	0	nan	nan
+Chlorpromazine_Hcl	carbamazepine	0	nan	nan
+Taxol	caffeine	0	nan	nan
+Taxol	succinic_acid	0	nan	nan
+Taxol	octyl_gallate	0	nan	nan
+Taxol	DL-malic_acid	0	nan	nan
+Taxol	adipic_acid	0	nan	nan
+Taxol	Triazabicyclodecene	0	nan	nan
+Taxol	DBU	0	nan	nan
+Taxol	L-asparagine	0	nan	nan
+Taxol	theobromine	0	nan	nan
+Taxol	3,3'-thiodipropionic_acid	0	nan	nan
+Taxol	theophylline	0	nan	nan
+Taxol	borneol	0	nan	nan
+Taxol	cinnamaldehyde	0	nan	nan
+Taxol	aspartame	0	nan	nan
+Taxol	squalene	0	nan	nan
+Taxol	benzaldehyde	0	nan	nan
+Taxol	sodium_deoxycholate	0	nan	nan
+Taxol	cholic_acid	0	nan	nan
+Taxol	glycocholic_acid	0	nan	nan
+Taxol	sucrose_octaacetate	0	nan	nan
+Taxol	trans_anethole	0	nan	nan
+Taxol	indomethacin	0	nan	nan
+Taxol	terpinyl_butyrate	0	nan	nan
+Taxol	hydrocortisone	0	nan	nan
+Taxol	candesartan_cilexetil	0	nan	nan
+Taxol	neohesperidin_DC	0	nan	nan
+Taxol	ursodiol	0	nan	nan
+Taxol	diclofenac	0	nan	nan
+Taxol	eucalyptol	0	nan	nan
+Taxol	beta_carotene	0	nan	nan
+Taxol	menthol	0	nan	nan
+Taxol	alpha-terpineol	0	nan	nan
+Taxol	fenchyl_alcohol	0	nan	nan
+Taxol	biotin	0	nan	nan
+Taxol	xylitol	0	nan	nan
+Taxol	trans-cinnamic_acid	0	nan	nan
+Taxol	thimerosal	0	nan	nan
+Taxol	tyramine	0	nan	nan
+Taxol	fumaric_acid	0	nan	nan
+Taxol	congo_red	1	0.34586879	63
+Taxol	vanillin	0	nan	nan
+Taxol	saccharin	0	nan	nan
+Taxol	allantoin	0	nan	nan
+Taxol	vitamin_A_palmitate	0	nan	nan
+Taxol	acetylcholine_chloride	0	nan	nan
+Taxol	dibutyl_phthalate	0	nan	nan
+Taxol	trometamol	0	nan	nan
+Taxol	benzoyl_peroxide	0	nan	nan
+Taxol	triethyl_citrate	0	nan	nan
+Taxol	triacetin	0	nan	nan
+Taxol	glycerol	0	nan	nan
+Taxol	propylene_glycol	0	nan	nan
+Taxol	mebendazole	0	nan	nan
+Taxol	L-proline	0	nan	nan
+Taxol	L-lysine	0	nan	nan
+Taxol	L-ascorbic_acid	0	nan	nan
+Taxol	stearic_acid	0	nan	nan
+Taxol	(R)-(+)-Limonene	0	nan	nan
+Taxol	meglumine	0	nan	nan
+Taxol	hydrochlorothiazide	0	nan	nan
+Taxol	ketoprofen	0	nan	nan
+Taxol	memantine_hydrochloride	0	nan	nan
+Taxol	naproxen_sodium	0	nan	nan
+Taxol	mannitol	0	nan	nan
+Taxol	D-sorbitol	0	nan	nan
+Taxol	tannic_acid	0	nan	nan
+Taxol	rhodamine_B	0	nan	nan
+Taxol	moxifloxacin	0	nan	nan
+Taxol	ciprofloxacin	0	nan	nan
+Taxol	certirizine	0	nan	nan
+Taxol	budesonide	0	nan	nan
+Taxol	etidronic_acid	0	nan	nan
+Taxol	emtricitabine	0	nan	nan
+Taxol	metoprolol(+)-tartrate	0	nan	nan
+Taxol	phenytoin	0	nan	nan
+Taxol	propranolol_hydrochloride	0	nan	nan
+Taxol	captan	0	nan	nan
+Taxol	neotame	0	nan	nan
+Taxol	alendronate_sodium	0	nan	nan
+Taxol	piroxicam	0	nan	nan
+Taxol	desipramine_hydrochloride	0	nan	nan
+Taxol	nadolol	0	nan	nan
+Taxol	omeprazole	0	nan	nan
+Taxol	labetalol_hydrochloride	0	nan	nan
+Taxol	prednisone	0	nan	nan
+Taxol	risperidone	0	nan	nan
+Taxol	fluconazole	0	nan	nan
+Taxol	methotrexate_hydrate	0	nan	nan
+Taxol	tenofovir_alafenamide	0	nan	nan
+Taxol	carbamazepine	0	nan	nan
+Physcion	caffeine	0	nan	nan
+Physcion	succinic_acid	0	nan	nan
+Physcion	octyl_gallate	0	nan	nan
+Physcion	DL-malic_acid	0	nan	nan
+Physcion	adipic_acid	0	nan	nan
+Physcion	Triazabicyclodecene	0	nan	nan
+Physcion	DBU	0	nan	nan
+Physcion	L-asparagine	0	nan	nan
+Physcion	theobromine	0	nan	nan
+Physcion	3,3'-thiodipropionic_acid	0	nan	nan
+Physcion	theophylline	0	nan	nan
+Physcion	borneol	0	nan	nan
+Physcion	cinnamaldehyde	0	nan	nan
+Physcion	aspartame	0	nan	nan
+Physcion	squalene	0	nan	nan
+Physcion	benzaldehyde	0	nan	nan
+Physcion	sodium_deoxycholate	0	nan	nan
+Physcion	cholic_acid	0	nan	nan
+Physcion	glycocholic_acid	0	nan	nan
+Physcion	sucrose_octaacetate	0	nan	nan
+Physcion	trans_anethole	0	nan	nan
+Physcion	indomethacin	1	0.391580917	104.65
+Physcion	terpinyl_butyrate	0	nan	nan
+Physcion	hydrocortisone	0	nan	nan
+Physcion	candesartan_cilexetil	0	nan	nan
+Physcion	neohesperidin_DC	0	nan	nan
+Physcion	ursodiol	0	nan	nan
+Physcion	diclofenac	0	nan	nan
+Physcion	eucalyptol	0	nan	nan
+Physcion	beta_carotene	1	0.455191768	121.65
+Physcion	menthol	0	nan	nan
+Physcion	alpha-terpineol	0	nan	nan
+Physcion	fenchyl_alcohol	0	nan	nan
+Physcion	biotin	0	nan	nan
+Physcion	xylitol	0	nan	nan
+Physcion	trans-cinnamic_acid	0	nan	nan
+Physcion	thimerosal	0	nan	nan
+Physcion	tyramine	0	nan	nan
+Physcion	fumaric_acid	0	nan	nan
+Physcion	congo_red	0	nan	nan
+Physcion	vanillin	0	nan	nan
+Physcion	saccharin	0	nan	nan
+Physcion	allantoin	0	nan	nan
+Physcion	vitamin_A_palmitate	0	nan	nan
+Physcion	acetylcholine_chloride	0	nan	nan
+Physcion	dibutyl_phthalate	0	nan	nan
+Physcion	trometamol	0	nan	nan
+Physcion	benzoyl_peroxide	0	nan	nan
+Physcion	triethyl_citrate	0	nan	nan
+Physcion	triacetin	0	nan	nan
+Physcion	glycerol	0	nan	nan
+Physcion	propylene_glycol	0	nan	nan
+Physcion	mebendazole	0	nan	nan
+Physcion	L-proline	0	nan	nan
+Physcion	L-lysine	0	nan	nan
+Physcion	L-ascorbic_acid	0	nan	nan
+Physcion	stearic_acid	0	nan	nan
+Physcion	(R)-(+)-Limonene	0	nan	nan
+Physcion	meglumine	0	nan	nan
+Physcion	hydrochlorothiazide	0	nan	nan
+Physcion	ketoprofen	0	nan	nan
+Physcion	memantine_hydrochloride	0	nan	nan
+Physcion	naproxen_sodium	0	nan	nan
+Physcion	mannitol	0	nan	nan
+Physcion	D-sorbitol	0	nan	nan
+Physcion	tannic_acid	0	nan	nan
+Physcion	rhodamine_B	0	nan	nan
+Physcion	moxifloxacin	0	nan	nan
+Physcion	ciprofloxacin	0	nan	nan
+Physcion	certirizine	0	nan	nan
+Physcion	budesonide	0	nan	nan
+Physcion	etidronic_acid	0	nan	nan
+Physcion	emtricitabine	0	nan	nan
+Physcion	metoprolol(+)-tartrate	0	nan	nan
+Physcion	phenytoin	0	nan	nan
+Physcion	propranolol_hydrochloride	0	nan	nan
+Physcion	captan	0	nan	nan
+Physcion	neotame	0	nan	nan
+Physcion	alendronate_sodium	0	nan	nan
+Physcion	piroxicam	0	nan	nan
+Physcion	desipramine_hydrochloride	0	nan	nan
+Physcion	nadolol	0	nan	nan
+Physcion	omeprazole	0	nan	nan
+Physcion	labetalol_hydrochloride	0	nan	nan
+Physcion	prednisone	0	nan	nan
+Physcion	risperidone	0	nan	nan
+Physcion	fluconazole	0	nan	nan
+Physcion	methotrexate_hydrate	0	nan	nan
+Physcion	tenofovir_alafenamide	0	nan	nan
+Physcion	carbamazepine	0	nan	nan
+Curcumine	caffeine	0	nan	nan
+Curcumine	succinic_acid	0	nan	nan
+Curcumine	octyl_gallate	0	nan	nan
+Curcumine	DL-malic_acid	0	nan	nan
+Curcumine	adipic_acid	0	nan	nan
+Curcumine	Triazabicyclodecene	0	nan	nan
+Curcumine	DBU	0	nan	nan
+Curcumine	L-asparagine	0	nan	nan
+Curcumine	theobromine	0	nan	nan
+Curcumine	3,3'-thiodipropionic_acid	0	nan	nan
+Curcumine	theophylline	0	nan	nan
+Curcumine	borneol	0	nan	nan
+Curcumine	cinnamaldehyde	0	nan	nan
+Curcumine	aspartame	0	nan	nan
+Curcumine	squalene	0	nan	nan
+Curcumine	benzaldehyde	0	nan	nan
+Curcumine	sodium_deoxycholate	0	nan	nan
+Curcumine	cholic_acid	0	nan	nan
+Curcumine	glycocholic_acid	0	nan	nan
+Curcumine	sucrose_octaacetate	0	nan	nan
+Curcumine	trans_anethole	0	nan	nan
+Curcumine	indomethacin	0	nan	nan
+Curcumine	terpinyl_butyrate	0	nan	nan
+Curcumine	hydrocortisone	0	nan	nan
+Curcumine	candesartan_cilexetil	1	0.319742712	154.1
+Curcumine	neohesperidin_DC	0	nan	nan
+Curcumine	ursodiol	0	nan	nan
+Curcumine	diclofenac	0	nan	nan
+Curcumine	eucalyptol	0	nan	nan
+Curcumine	beta_carotene	0	nan	nan
+Curcumine	menthol	0	nan	nan
+Curcumine	alpha-terpineol	0	nan	nan
+Curcumine	fenchyl_alcohol	0	nan	nan
+Curcumine	biotin	0	nan	nan
+Curcumine	xylitol	0	nan	nan
+Curcumine	trans-cinnamic_acid	1	0.48324515	232.9
+Curcumine	thimerosal	0	nan	nan
+Curcumine	tyramine	0	nan	nan
+Curcumine	fumaric_acid	0	nan	nan
+Curcumine	congo_red	0	nan	nan
+Curcumine	vanillin	0	nan	nan
+Curcumine	saccharin	0	nan	nan
+Curcumine	allantoin	0	nan	nan
+Curcumine	vitamin_A_palmitate	0	nan	nan
+Curcumine	acetylcholine_chloride	0	nan	nan
+Curcumine	dibutyl_phthalate	0	nan	nan
+Curcumine	trometamol	0	nan	nan
+Curcumine	benzoyl_peroxide	0	nan	nan
+Curcumine	triethyl_citrate	0	nan	nan
+Curcumine	triacetin	0	nan	nan
+Curcumine	glycerol	0	nan	nan
+Curcumine	propylene_glycol	0	nan	nan
+Curcumine	mebendazole	0	nan	nan
+Curcumine	L-proline	0	nan	nan
+Curcumine	L-lysine	0	nan	nan
+Curcumine	L-ascorbic_acid	0	nan	nan
+Curcumine	stearic_acid	0	nan	nan
+Curcumine	(R)-(+)-Limonene	0	nan	nan
+Curcumine	meglumine	0	nan	nan
+Curcumine	hydrochlorothiazide	0	nan	nan
+Curcumine	ketoprofen	0	nan	nan
+Curcumine	memantine_hydrochloride	0	nan	nan
+Curcumine	naproxen_sodium	0	nan	nan
+Curcumine	mannitol	0	nan	nan
+Curcumine	D-sorbitol	0	nan	nan
+Curcumine	tannic_acid	0	nan	nan
+Curcumine	rhodamine_B	0	nan	nan
+Curcumine	moxifloxacin	0	nan	nan
+Curcumine	ciprofloxacin	0	nan	nan
+Curcumine	certirizine	0	nan	nan
+Curcumine	budesonide	0	nan	nan
+Curcumine	etidronic_acid	0	nan	nan
+Curcumine	emtricitabine	0	nan	nan
+Curcumine	metoprolol(+)-tartrate	0	nan	nan
+Curcumine	phenytoin	0	nan	nan
+Curcumine	propranolol_hydrochloride	0	nan	nan
+Curcumine	captan	0	nan	nan
+Curcumine	neotame	0	nan	nan
+Curcumine	alendronate_sodium	0	nan	nan
+Curcumine	piroxicam	0	nan	nan
+Curcumine	desipramine_hydrochloride	0	nan	nan
+Curcumine	nadolol	0	nan	nan
+Curcumine	omeprazole	0	nan	nan
+Curcumine	labetalol_hydrochloride	0	nan	nan
+Curcumine	prednisone	0	nan	nan
+Curcumine	risperidone	0	nan	nan
+Curcumine	fluconazole	0	nan	nan
+Curcumine	methotrexate_hydrate	0	nan	nan
+Curcumine	tenofovir_alafenamide	0	nan	nan
+Curcumine	carbamazepine	0	nan	nan
+Etravirine	caffeine	0	nan	nan
+Etravirine	succinic_acid	0	nan	nan
+Etravirine	octyl_gallate	0	nan	nan
+Etravirine	DL-malic_acid	0	nan	nan
+Etravirine	adipic_acid	0	nan	nan
+Etravirine	Triazabicyclodecene	0	nan	nan
+Etravirine	DBU	0	nan	nan
+Etravirine	L-asparagine	0	nan	nan
+Etravirine	theobromine	0	nan	nan
+Etravirine	3,3'-thiodipropionic_acid	0	nan	nan
+Etravirine	theophylline	0	nan	nan
+Etravirine	borneol	0	nan	nan
+Etravirine	cinnamaldehyde	0	nan	nan
+Etravirine	aspartame	0	nan	nan
+Etravirine	squalene	0	nan	nan
+Etravirine	benzaldehyde	0	nan	nan
+Etravirine	sodium_deoxycholate	0	nan	nan
+Etravirine	cholic_acid	0	nan	nan
+Etravirine	glycocholic_acid	0	nan	nan
+Etravirine	sucrose_octaacetate	0	nan	nan
+Etravirine	trans_anethole	0	nan	nan
+Etravirine	indomethacin	1	0.415069615	202.72
+Etravirine	terpinyl_butyrate	0	nan	nan
+Etravirine	hydrocortisone	0	nan	nan
+Etravirine	candesartan_cilexetil	1	0.476658477	232.8
+Etravirine	neohesperidin_DC	0	nan	nan
+Etravirine	ursodiol	0	nan	nan
+Etravirine	diclofenac	0	nan	nan
+Etravirine	eucalyptol	0	nan	nan
+Etravirine	beta_carotene	1	0.400491401	195.6
+Etravirine	menthol	0	nan	nan
+Etravirine	alpha-terpineol	0	nan	nan
+Etravirine	fenchyl_alcohol	0	nan	nan
+Etravirine	biotin	0	nan	nan
+Etravirine	xylitol	0	nan	nan
+Etravirine	trans-cinnamic_acid	0	nan	nan
+Etravirine	thimerosal	0	nan	nan
+Etravirine	tyramine	0	nan	nan
+Etravirine	fumaric_acid	0	nan	nan
+Etravirine	congo_red	0	nan	nan
+Etravirine	vanillin	0	nan	nan
+Etravirine	saccharin	0	nan	nan
+Etravirine	allantoin	0	nan	nan
+Etravirine	vitamin_A_palmitate	0	nan	nan
+Etravirine	acetylcholine_chloride	0	nan	nan
+Etravirine	dibutyl_phthalate	0	nan	nan
+Etravirine	trometamol	0	nan	nan
+Etravirine	benzoyl_peroxide	0	nan	nan
+Etravirine	triethyl_citrate	0	nan	nan
+Etravirine	triacetin	0	nan	nan
+Etravirine	glycerol	0	nan	nan
+Etravirine	propylene_glycol	0	nan	nan
+Etravirine	mebendazole	0	nan	nan
+Etravirine	L-proline	0	nan	nan
+Etravirine	L-lysine	0	nan	nan
+Etravirine	L-ascorbic_acid	0	nan	nan
+Etravirine	stearic_acid	0	nan	nan
+Etravirine	(R)-(+)-Limonene	0	nan	nan
+Etravirine	meglumine	0	nan	nan
+Etravirine	hydrochlorothiazide	0	nan	nan
+Etravirine	ketoprofen	0	nan	nan
+Etravirine	memantine_hydrochloride	0	nan	nan
+Etravirine	naproxen_sodium	0	nan	nan
+Etravirine	mannitol	0	nan	nan
+Etravirine	D-sorbitol	0	nan	nan
+Etravirine	tannic_acid	0	nan	nan
+Etravirine	rhodamine_B	0	nan	nan
+Etravirine	moxifloxacin	0	nan	nan
+Etravirine	ciprofloxacin	0	nan	nan
+Etravirine	certirizine	0	nan	nan
+Etravirine	budesonide	1	0.477067977	233
+Etravirine	etidronic_acid	0	nan	nan
+Etravirine	emtricitabine	0	nan	nan
+Etravirine	metoprolol(+)-tartrate	0	nan	nan
+Etravirine	phenytoin	0	nan	nan
+Etravirine	propranolol_hydrochloride	0	nan	nan
+Etravirine	captan	0	nan	nan
+Etravirine	neotame	0	nan	nan
+Etravirine	alendronate_sodium	0	nan	nan
+Etravirine	piroxicam	0	nan	nan
+Etravirine	desipramine_hydrochloride	0	nan	nan
+Etravirine	nadolol	0	nan	nan
+Etravirine	omeprazole	0	nan	nan
+Etravirine	labetalol_hydrochloride	0	nan	nan
+Etravirine	prednisone	0	nan	nan
+Etravirine	risperidone	0	nan	nan
+Etravirine	fluconazole	0	nan	nan
+Etravirine	methotrexate_hydrate	0	nan	nan
+Etravirine	tenofovir_alafenamide	0	nan	nan
+Etravirine	carbamazepine	1	0.10974611	53.6
+Clofazimine	caffeine	0	nan	nan
+Clofazimine	succinic_acid	0	nan	nan
+Clofazimine	octyl_gallate	0	nan	nan
+Clofazimine	DL-malic_acid	0	nan	nan
+Clofazimine	adipic_acid	0	nan	nan
+Clofazimine	Triazabicyclodecene	0	nan	nan
+Clofazimine	DBU	0	nan	nan
+Clofazimine	L-asparagine	0	nan	nan
+Clofazimine	theobromine	0	nan	nan
+Clofazimine	3,3'-thiodipropionic_acid	0	nan	nan
+Clofazimine	theophylline	0	nan	nan
+Clofazimine	borneol	0	nan	nan
+Clofazimine	cinnamaldehyde	0	nan	nan
+Clofazimine	aspartame	0	nan	nan
+Clofazimine	squalene	0	nan	nan
+Clofazimine	benzaldehyde	0	nan	nan
+Clofazimine	sodium_deoxycholate	0	nan	nan
+Clofazimine	cholic_acid	0	nan	nan
+Clofazimine	glycocholic_acid	0	nan	nan
+Clofazimine	sucrose_octaacetate	0	nan	nan
+Clofazimine	trans_anethole	0	nan	nan
+Clofazimine	indomethacin	1	0.411225997	139.2
+Clofazimine	terpinyl_butyrate	0	nan	nan
+Clofazimine	hydrocortisone	0	nan	nan
+Clofazimine	candesartan_cilexetil	1	0.362924668	122.85
+Clofazimine	neohesperidin_DC	0	nan	nan
+Clofazimine	ursodiol	0	nan	nan
+Clofazimine	diclofenac	0	nan	nan
+Clofazimine	eucalyptol	0	nan	nan
+Clofazimine	beta_carotene	0	nan	nan
+Clofazimine	menthol	0	nan	nan
+Clofazimine	alpha-terpineol	0	nan	nan
+Clofazimine	fenchyl_alcohol	0	nan	nan
+Clofazimine	biotin	0	nan	nan
+Clofazimine	xylitol	0	nan	nan
+Clofazimine	trans-cinnamic_acid	0	nan	nan
+Clofazimine	thimerosal	0	nan	nan
+Clofazimine	tyramine	0	nan	nan
+Clofazimine	fumaric_acid	0	nan	nan
+Clofazimine	congo_red	0	nan	nan
+Clofazimine	vanillin	0	nan	nan
+Clofazimine	saccharin	0	nan	nan
+Clofazimine	allantoin	0	nan	nan
+Clofazimine	vitamin_A_palmitate	0	nan	nan
+Clofazimine	acetylcholine_chloride	0	nan	nan
+Clofazimine	dibutyl_phthalate	0	nan	nan
+Clofazimine	trometamol	0	nan	nan
+Clofazimine	benzoyl_peroxide	0	nan	nan
+Clofazimine	triethyl_citrate	0	nan	nan
+Clofazimine	triacetin	0	nan	nan
+Clofazimine	glycerol	0	nan	nan
+Clofazimine	propylene_glycol	0	nan	nan
+Clofazimine	mebendazole	1	0.492023634	166.55
+Clofazimine	L-proline	0	nan	nan
+Clofazimine	L-lysine	0	nan	nan
+Clofazimine	L-ascorbic_acid	0	nan	nan
+Clofazimine	stearic_acid	0	nan	nan
+Clofazimine	(R)-(+)-Limonene	0	nan	nan
+Clofazimine	meglumine	0	nan	nan
+Clofazimine	hydrochlorothiazide	0	nan	nan
+Clofazimine	ketoprofen	0	nan	nan
+Clofazimine	memantine_hydrochloride	0	nan	nan
+Clofazimine	naproxen_sodium	0	nan	nan
+Clofazimine	mannitol	0	nan	nan
+Clofazimine	D-sorbitol	0	nan	nan
+Clofazimine	tannic_acid	0	nan	nan
+Clofazimine	rhodamine_B	0	nan	nan
+Clofazimine	moxifloxacin	0	nan	nan
+Clofazimine	ciprofloxacin	0	nan	nan
+Clofazimine	certirizine	0	nan	nan
+Clofazimine	budesonide	0	nan	nan
+Clofazimine	etidronic_acid	0	nan	nan
+Clofazimine	emtricitabine	0	nan	nan
+Clofazimine	metoprolol(+)-tartrate	0	nan	nan
+Clofazimine	phenytoin	0	nan	nan
+Clofazimine	propranolol_hydrochloride	0	nan	nan
+Clofazimine	captan	0	nan	nan
+Clofazimine	neotame	0	nan	nan
+Clofazimine	alendronate_sodium	0	nan	nan
+Clofazimine	piroxicam	0	nan	nan
+Clofazimine	desipramine_hydrochloride	0	nan	nan
+Clofazimine	nadolol	0	nan	nan
+Clofazimine	omeprazole	0	nan	nan
+Clofazimine	labetalol_hydrochloride	0	nan	nan
+Clofazimine	prednisone	0	nan	nan
+Clofazimine	risperidone	0	nan	nan
+Clofazimine	fluconazole	0	nan	nan
+Clofazimine	methotrexate_hydrate	0	nan	nan
+Clofazimine	tenofovir_alafenamide	0	nan	nan
+Clofazimine	carbamazepine	0	nan	nan
+Pranlukast	caffeine	0	nan	nan
+Pranlukast	succinic_acid	0	nan	nan
+Pranlukast	octyl_gallate	0	nan	nan
+Pranlukast	DL-malic_acid	0	nan	nan
+Pranlukast	adipic_acid	0	nan	nan
+Pranlukast	Triazabicyclodecene	0	nan	nan
+Pranlukast	DBU	0	nan	nan
+Pranlukast	L-asparagine	0	nan	nan
+Pranlukast	theobromine	0	nan	nan
+Pranlukast	3,3'-thiodipropionic_acid	0	nan	nan
+Pranlukast	theophylline	0	nan	nan
+Pranlukast	borneol	0	nan	nan
+Pranlukast	cinnamaldehyde	0	nan	nan
+Pranlukast	aspartame	0	nan	nan
+Pranlukast	squalene	0	nan	nan
+Pranlukast	benzaldehyde	0	nan	nan
+Pranlukast	sodium_deoxycholate	0	nan	nan
+Pranlukast	cholic_acid	0	nan	nan
+Pranlukast	glycocholic_acid	0	nan	nan
+Pranlukast	sucrose_octaacetate	0	nan	nan
+Pranlukast	trans_anethole	0	nan	nan
+Pranlukast	indomethacin	0	nan	nan
+Pranlukast	terpinyl_butyrate	0	nan	nan
+Pranlukast	hydrocortisone	0	nan	nan
+Pranlukast	candesartan_cilexetil	0	nan	nan
+Pranlukast	neohesperidin_DC	0	nan	nan
+Pranlukast	ursodiol	0	nan	nan
+Pranlukast	diclofenac	0	nan	nan
+Pranlukast	eucalyptol	0	nan	nan
+Pranlukast	beta_carotene	0	nan	nan
+Pranlukast	menthol	0	nan	nan
+Pranlukast	alpha-terpineol	0	nan	nan
+Pranlukast	fenchyl_alcohol	0	nan	nan
+Pranlukast	biotin	0	nan	nan
+Pranlukast	xylitol	0	nan	nan
+Pranlukast	trans-cinnamic_acid	0	nan	nan
+Pranlukast	thimerosal	0	nan	nan
+Pranlukast	tyramine	0	nan	nan
+Pranlukast	fumaric_acid	0	nan	nan
+Pranlukast	congo_red	0	nan	nan
+Pranlukast	vanillin	0	nan	nan
+Pranlukast	saccharin	0	nan	nan
+Pranlukast	allantoin	0	nan	nan
+Pranlukast	vitamin_A_palmitate	0	nan	nan
+Pranlukast	acetylcholine_chloride	0	nan	nan
+Pranlukast	dibutyl_phthalate	0	nan	nan
+Pranlukast	trometamol	0	nan	nan
+Pranlukast	benzoyl_peroxide	0	nan	nan
+Pranlukast	triethyl_citrate	0	nan	nan
+Pranlukast	triacetin	0	nan	nan
+Pranlukast	glycerol	0	nan	nan
+Pranlukast	propylene_glycol	0	nan	nan
+Pranlukast	mebendazole	0	nan	nan
+Pranlukast	L-proline	0	nan	nan
+Pranlukast	L-lysine	0	nan	nan
+Pranlukast	L-ascorbic_acid	0	nan	nan
+Pranlukast	stearic_acid	0	nan	nan
+Pranlukast	(R)-(+)-Limonene	0	nan	nan
+Pranlukast	meglumine	0	nan	nan
+Pranlukast	hydrochlorothiazide	0	nan	nan
+Pranlukast	ketoprofen	0	nan	nan
+Pranlukast	memantine_hydrochloride	0	nan	nan
+Pranlukast	naproxen_sodium	0	nan	nan
+Pranlukast	mannitol	0	nan	nan
+Pranlukast	D-sorbitol	0	nan	nan
+Pranlukast	tannic_acid	0	nan	nan
+Pranlukast	rhodamine_B	0	nan	nan
+Pranlukast	moxifloxacin	0	nan	nan
+Pranlukast	ciprofloxacin	0	nan	nan
+Pranlukast	certirizine	0	nan	nan
+Pranlukast	budesonide	0	nan	nan
+Pranlukast	etidronic_acid	0	nan	nan
+Pranlukast	emtricitabine	0	nan	nan
+Pranlukast	metoprolol(+)-tartrate	0	nan	nan
+Pranlukast	phenytoin	0	nan	nan
+Pranlukast	propranolol_hydrochloride	0	nan	nan
+Pranlukast	captan	0	nan	nan
+Pranlukast	neotame	0	nan	nan
+Pranlukast	alendronate_sodium	0	nan	nan
+Pranlukast	piroxicam	0	nan	nan
+Pranlukast	desipramine_hydrochloride	0	nan	nan
+Pranlukast	nadolol	0	nan	nan
+Pranlukast	omeprazole	0	nan	nan
+Pranlukast	labetalol_hydrochloride	0	nan	nan
+Pranlukast	prednisone	0	nan	nan
+Pranlukast	risperidone	0	nan	nan
+Pranlukast	fluconazole	0	nan	nan
+Pranlukast	methotrexate_hydrate	0	nan	nan
+Pranlukast	tenofovir_alafenamide	0	nan	nan
+Pranlukast	carbamazepine	0	nan	nan
