@@ -34,14 +34,14 @@ Step 0. Download sample data.
 Step 1. Create a 3D conformation in Tripos Mol2 formatted files.
 
 	
-	./make_mol.sh ../data/selected_drug_smiles.txt
-	./make_mol.sh ../data/selected_excipient_smiles.txt
+	./make_mol.sh ../data/selected_drug_smiles.tsv
+	./make_mol.sh ../data/selected_excipient_smiles.tsv
 	
 	
 Step 2. Create all required pre-simulation files.
 
 	
-	python ./make_box.py -i ../data/pair_composition.txt
+	python ./make_box.py -i ../data/pair_composition.tsv
 	
 
 Step 3. Run simulations
