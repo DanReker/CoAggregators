@@ -1,10 +1,9 @@
 # Code and data to study and predict drug-excipient co-aggregation for nanoparticle formation
 
 For more information, please refer to the associated publications.
-https://www.biorxiv.org/content/10.1101/786251v1
+https://www.nature.com/articles/s41565-021-00870-y
 
-
-If you use this data or code, please kindly cite ` Reker et al. BioRxiv 2019 10.1101/786251v1 `
+If you use this data or code, please kindly cite ` Reker et al. Nature Nanotechnology 2021 https://doi.org/10.1038/s41565-021-00870-y`
 
 # Dependencies
 
